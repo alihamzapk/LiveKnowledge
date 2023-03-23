@@ -1,4 +1,36 @@
-- name: TestService
+- name: Upload
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: Annotator
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: Knowledge-translation
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: LK mappings
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: Knowledge Embedder
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: FCA generator 
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: Visualization generator
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: Cue generator 
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+  url:
+- name: Query catalog 
   logo: /img/categories/arts-culture-history.svg
   featured: true
   url:
