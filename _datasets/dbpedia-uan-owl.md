@@ -1,6 +1,6 @@
 ---
 schema: default
-title: DBPedia.UAN.owl
+title: DBPedia
 organization: Unitn
 notes: >-
   The DBpedia ontology provides the classes and properties used in the DBpedia
