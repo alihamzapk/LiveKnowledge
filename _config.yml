@@ -1,6 +1,6 @@
 title: LiveKnowledge
 greeting: LiveKnowledge Catalog 
-description: he LiveKnowledge Catalogue exposes detailed metadata representing different genres of knowledge resources, namely, teleologies, ontologies, teleontologies, lightweight classification ontologies and schemas. These knowledge resources were produced as part of various Knowledge Engineering projects involving different partners from around the world. The distribution files of the knowledge resources, being hosted in a repository, can be accessed after satisfying proper request and approval processes.
+description: The LiveKnowledge Catalogue exposes detailed metadata representing different genres of knowledge resources, namely, teleologies, ontologies, teleontologies, lightweight classification ontologies and schemas. These knowledge resources were produced as part of various Knowledge Engineering projects involving different partners from around the world. The distribution files of the knowledge resources, being hosted in a repository, can be accessed after satisfying proper request and approval processes.
 baseurl: /LiveKnowledge
 logo: /img/LK.png
 
