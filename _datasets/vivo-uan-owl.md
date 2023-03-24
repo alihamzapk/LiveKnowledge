@@ -1,8 +1,10 @@
 ---
 schema: default
 title: VIVO.UAN.owl
-organization: Sample Department
-notes: First resource
+organization: Unitn
+notes: >-
+  An ontology of academic and research domain, developed in the framework of the
+  VIVO project @en
 resources:
   - name: VIVO.UAN.owl
     url: >-
@@ -10,6 +12,8 @@ resources:
     format: rdf
 test: ''
 license: 'https://creativecommons.org/licenses/by/4.0/'
+category:
+  - Upper-Level
 maintainer: ''
 maintainer_email: ''
 tags: ''
