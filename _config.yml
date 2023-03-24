@@ -1,6 +1,6 @@
 title: LiveKnowledge
 greeting: LiveKnowledge Catalog 
-description: This is a template, provided by DataScientia Foundation, for the creation of a Data Catalog to be part of the DataScientia community.
+description: he LiveKnowledge Catalogue exposes detailed metadata representing different genres of knowledge resources, namely, teleologies, ontologies, teleontologies, lightweight classification ontologies and schemas. These knowledge resources were produced as part of various Knowledge Engineering projects involving different partners from around the world. The distribution files of the knowledge resources, being hosted in a repository, can be accessed after satisfying proper request and approval processes.
 baseurl: /LiveKnowledge
 logo: /img/LK.png
 
