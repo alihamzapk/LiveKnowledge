@@ -1,6 +1,6 @@
 ---
 schema: default
-title: DBPedia.UAN.owl
+title: DBPedia
 organization: Unitn
 notes: >-
   The DBpedia ontology provides the classes and properties used in the DBpedia
@@ -9,8 +9,7 @@ resources:
   - name: DBPedia.UAN.owl
     url: >-
       http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/commonsense/raw/master/DBPedia.UAN.owl
-    format: ''
-test: ''
+    format: rdf
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
   - Digital University
