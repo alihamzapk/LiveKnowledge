@@ -4,38 +4,99 @@ dataset_fields:
   - field_name: title
     label: Title
     datajson: title
-  - field_name: organization
-    label: Organization
-    form_template: form/organization.html
-    datajson: publisher.name
-  - field_name: notes
+  - field_name: description
     label: Description
-    form_template: form/textarea.html
     datajson: description
-  - field_name: license
-    label: License
-    form_template: form/license.html
-    datajson: license
-  - field_name: category
-    label: Category
-    form_template: form/category.html
-    display_template: display/category.html
-    datajson: category
-  - field_name: maintainer
-    label: Maintainer
-    datajson: contactPoint.fn
-  - field_name: maintainer_email
-    label: Maintainer Email
-    datajson: contactPoint.hasEmail
-  - field_name: tags
-    label: Tags
-    datajson: tags
-
+  - field_name: distribution
+    label: Distribution
+    datajson: distribution
+  - field_name: keyword
+    label: Keyword
+    datajson: keyword
+  - field_name: publisher
+    label: Publisher
+    datajson: publisher
+  - field_name: theme 
+    label: Theme
+    datajson: theme
+  - field_name: versionNotes 
+    label: VersionNotes
+    datajson: versionNotes
+  - field_name: landingPage 
+    label: LandingPage
+    datajson: landingPage
+  - field_name: accessRigths
+    label: AccessRigths
+    datajson: accessRigths
+  - field_name: creator 
+    label: Creator
+    datajson: creator
+  - field_name: hasVersion 
+    label: HasVersion
+    datajson: hasVersion
+  - field_name: isVersionOf 
+    label: isVersionOf
+    datajson: isVersionOf
+  - field_name: identifier
+    label: Identifier
+    datajson: identifier
+  - field_name: issued  
+    label: Issued
+    datajson: issued
+  - field_name: modified
+    label: Modified
+    datajson: modified
+  - field_name: language 
+    label: Language
+    datajson: language
+  - field_name: provenance 
+    label: Provenance
+    datajson: provenance
+  - field_name: page
+    label: Page
+    datajson: page
+  - field_name: wasGeneratedBy 
+    label: WasGeneratedBy
+    datajson: wasGeneratedBy
+  - field_name: versionInfo 
+    label: VersionInfo
+    datajson: versionInfo 
+  - field_name: formalityLevel
+    label: Formality Level
+    datajson: formalityLevel
+  - field_name: OntologyEngineeringMethodology
+    label: Ontology Engineering Methodology
+    datajson: OntologyEngineeringMethodology
+  - field_name: acronym
+    label: Acronym
+    datajson: acronym
+  - field_name: CompetencyQuestion
+    label: Competency Question
+    datajson: CompetencyQuestion 
+  - field_name: maxDepth
+    label: Max Deptht
+    datajson: maxDepth
+  - field_name: preferredNamespacePrefix
+    label: Preferred Namespace Prefix
+    datajson: preferredNamespacePrefix
+  - field_name: preferredNamespaceUri
+    label: Preferred Namespace Uri
+    datajson: preferredNamespaceUri
+  - field_name: toDoList
+    label: To Do List
+    datajson: toDoList
+  - field_name: namespacesGenerated
+    label: Namespaces Generated
+    datajson: namespacesGenerated  
+  - field_name: namespacesReused
+    label: Namespaces Reused
+    datajson: namespacesReused 
+  
 resource_fields:
-  - field_name: name
+  - field_name: title
     label: Resource Name
     datajson: distribution.title
-  - field_name: url
+  - field_name: downloadURL
     label: URL
     datajson: distribution.downloadURL
   - field_name: format
@@ -53,6 +114,55 @@ resource_fields:
       - kmz
       - shp
       - xml
+      - owl
+  - field_name: description
+    label: Description
+    datajson: distribution.description 
+  - field_name: license
+    label: License
+    datajson: distribution.license
+  - field_name: status
+    label: Status
+    datajson: distribbution.status
+  - field_name: accessService
+    label: AccessService
+    datajson: distribution.accessService
+  - field_name: byteSize
+    label: Bite Size
+    datajson: distribution.bytesize
+  - field_name: issued
+    label: Issued
+    datajson: distribution.issued
+  - field_name: language
+    label: Language
+    datajson: distribution.language
+  - field_name: modified 
+    label: Modified
+    datajson:  distribution.modified
+  - field_name: OntologyEngineeringTool
+    label: Ontology Engineering Tool
+    datajson: OntologyEngineeringTool
+  - field_name: ontologyLanguage
+    label: Ontology Language
+    datajson: ontologyLanguage 
+  - field_name: ontologySyntax
+    label: Ontology Syntax
+    datajson: ontologySyntax
+  - field_name: example 
+    label: Example Of Use
+    datajson: example
+  - field_name: ReferenceLKRepository
+    label: Reference LKR epository
+    datajson: ReferenceLKRepository
+  - field_name: referenceOntology
+    label: Reference Ontology 
+    datajson: referenceOntology
+  - field_name: spatialExtent
+    label: Spatial Extent
+    datajson: spatialExtent
+  - field_name: referenceDatasets
+    label: Reference Datasets
+    datajson: referenceDatasets
 
 organization_fields:
   - field_name: title
@@ -72,3 +182,76 @@ category_fields:
   - field_name: featured
     label: Featured on Homepage
     form_template: form/checkbox.html
+      
+#dataset_fields:
+#  - field_name: title
+#    label: Title
+#    datajson: title
+#  - field_name: organization
+#    label: Organization
+#    form_template: form/organization.html
+#    datajson: publisher.name
+#  - field_name: notes
+#    label: Description
+#    form_template: form/textarea.html
+#    datajson: description
+#  - field_name: license
+#    label: License
+#    form_template: form/license.html
+#    datajson: license
+#  - field_name: category
+#    label: Category
+#    form_template: form/category.html
+#    display_template: display/category.html
+#    datajson: category
+#  - field_name: maintainer
+#    label: Maintainer
+#    datajson: contactPoint.fn
+#  - field_name: maintainer_email
+#    label: Maintainer Email
+#    datajson: contactPoint.hasEmail
+#  - field_name: tags
+#    label: Tags
+#    datajson: tags
+
+#resource_fields:
+#  - field_name: name
+#    label: Resource Name
+#    datajson: distribution.title
+#  - field_name: url
+#    label: URL
+#    datajson: distribution.downloadURL
+#  - field_name: format
+#    label: Format
+#    datajson: distribution.format
+#    form_template: form/dropdown.html
+#    values:
+#      - api
+#      - csv
+#      - rdf
+#      - json
+#      - geojson
+#      - html
+#      - kml
+#      - kmz
+#      - shp
+#      - xml
+
+#organization_fields:
+#  - field_name: title
+#    label: Title
+#  - field_name: description
+#    label: Description
+#  - field_name: logo
+#    label: Logo
+
+#category_fields:
+#  - field_name: name
+#    label: Name
+#  - field_name: logo
+#    label: Logo
+#  - field_name: logo_credit
+#    label: Logo Credit
+#  - field_name: featured
+#    label: Featured on Homepage
+#    form_template: form/checkbox.html
