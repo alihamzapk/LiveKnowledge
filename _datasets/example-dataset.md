@@ -1,14 +1,15 @@
 ---
 schema: default
-title: Vivo ontology
+title: Example_Dataset
+organization: Unitn
 resources:
-  - title: Vivo
+  - title: Vivo.owl
     downloadURL: >-
       http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/academics/raw/master/VIVO.UAN.owl
     format: owl
-    description: example purposes
-    license: cc
-    status: ''
+    description: Here's a description of the resource
+    license: ''
+    status: Active
     accessService: ''
     byteSize: ''
     issued: ''
@@ -22,11 +23,11 @@ resources:
     referenceOntology: ''
     spatialExtent: ''
     referenceDatasets: ''
-description: ''
+description: This is he description of the dataset
 distribution: ''
 keyword: ''
-publisher: ''
-theme: ''
+publisher: Unknown
+theme: Upper Level
 versionNotes: ''
 landingPage: ''
 accessRigths: ''
