@@ -10,6 +10,10 @@ dataset_fields:
   - field_name: distribution
     label: Distribution
     datajson: distribution
+  - field_name: organization
+    label: Organization
+    form_template: form/organization.html
+    datajson: publisher.name
   - field_name: keyword
     label: Keyword
     datajson: keyword
@@ -74,7 +78,7 @@ dataset_fields:
     label: Competency Question
     datajson: CompetencyQuestion 
   - field_name: maxDepth
-    label: Max Deptht
+    label: Max Depth
     datajson: maxDepth
   - field_name: preferredNamespacePrefix
     label: Preferred Namespace Prefix
