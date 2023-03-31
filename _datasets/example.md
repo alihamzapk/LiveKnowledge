@@ -1,0 +1,53 @@
+---
+schema: default
+title: example
+notes: ''
+organization: ''
+resources:
+  - name: Vivo.UAN.owl
+    downloadURL: >-
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/academics/raw/master/VIVO.UAN.owl
+    format: owl
+    description: ''
+    license: ''
+    status: ''
+    byteSize: ''
+    issued: ''
+    language: ''
+    modified: ''
+    OntologyEngineeringTool: ''
+    ontologyLanguage: ''
+    ontologySyntax: ''
+    example: ''
+    ReferenceLKRepository: ''
+    referenceOntology: ''
+    referenceDatasets: ''
+distribution: ''
+keyword: ''
+publisher: ''
+theme: ''
+versionNotes: ''
+landingPage: ''
+accessRigths: ''
+creator: ''
+hasVersion: ''
+isVersionOf: ''
+issued: ''
+modified: ''
+language: ''
+provenance: ''
+page: ''
+wasGeneratedBy: ''
+versionInfo: ''
+formalityLevel: ''
+OntologyEngineeringMethodology: ''
+acronym: ''
+CompetencyQuestion: ''
+preferredNamespacePrefix: ''
+toDoList: ''
+namespacesGenerated: ''
+namespacesReused: ''
+datasetLevel: ''
+spatialExtent: ''
+temporalExtent: ''
+---
