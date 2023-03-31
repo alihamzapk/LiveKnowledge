@@ -95,6 +95,9 @@ dataset_fields:
   - field_name: namespacesReused
     label: Namespaces Reused
     datajson: namespacesReused 
+  - field_name: datasetLevel
+    label: Dataset Level
+    datajson: datasetLevel
   
 resource_fields:
   - field_name: name
@@ -156,8 +159,13 @@ resource_fields:
     label: Example Of Use
     datajson: example
   - field_name: ReferenceLKRepository
-    label: Reference LKR epository
+    label: Reference LK Repository section
     datajson: ReferenceLKRepository
+    form_template: form/dropdown.html
+    values:
+    - SREP
+    - CREP
+    - DREP
   - field_name: referenceOntology
     label: Reference Ontology 
     datajson: referenceOntology
