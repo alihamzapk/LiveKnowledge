@@ -4,7 +4,7 @@ dataset_fields:
   - field_name: title
     label: Title
     datajson: title
-  - field_name: description
+  - field_name: notes
     label: Description
     form_template: form/textarea.html
     datajson: description
@@ -42,9 +42,6 @@ dataset_fields:
   - field_name: isVersionOf 
     label: isVersionOf
     datajson: isVersionOf
-  - field_name: identifier
-    label: Identifier
-    datajson: identifier
   - field_name: issued  
     label: Issued
     datajson: issued
@@ -77,16 +74,10 @@ dataset_fields:
     datajson: acronym
   - field_name: CompetencyQuestion
     label: Competency Question
-    datajson: CompetencyQuestion 
-  - field_name: maxDepth
-    label: Max Depth
-    datajson: maxDepth
+    datajson: CompetencyQuestion
   - field_name: preferredNamespacePrefix
     label: Preferred Namespace Prefix
     datajson: preferredNamespacePrefix
-  - field_name: preferredNamespaceUri
-    label: Preferred Namespace Uri
-    datajson: preferredNamespaceUri
   - field_name: toDoList
     label: To Do List
     datajson: toDoList
@@ -99,6 +90,12 @@ dataset_fields:
   - field_name: datasetLevel
     label: Dataset Level
     datajson: datasetLevel
+  - field_name: spatialExtent
+    label: Spatial Extent
+    datajson: spatialExtent
+  - fiels_name: temporalExtent
+    label: Temporal Extent
+    datajson: temporalExtent
   
 resource_fields:
   - field_name: name
@@ -170,9 +167,6 @@ resource_fields:
   - field_name: referenceOntology
     label: Reference Ontology 
     datajson: referenceOntology
-  - field_name: spatialExtent
-    label: Spatial Extent
-    datajson: spatialExtent
   - field_name: referenceDatasets
     label: Reference Datasets
     datajson: referenceDatasets
@@ -196,6 +190,8 @@ category_fields:
     label: Featured on Homepage
     form_template: form/checkbox.html
       
+
+#DEFAULT SCHEMA:
 #dataset_fields:
 #  - field_name: title
 #    label: Title
