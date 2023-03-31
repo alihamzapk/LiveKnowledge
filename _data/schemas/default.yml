@@ -129,9 +129,6 @@ resource_fields:
   - field_name: status
     label: Status
     datajson: distribbution.status
-  - field_name: accessService
-    label: AccessService
-    datajson: distribution.accessService
   - field_name: byteSize
     label: Bite Size
     datajson: distribution.bytesize
