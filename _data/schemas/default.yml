@@ -93,7 +93,7 @@ dataset_fields:
   - field_name: spatialExtent
     label: Spatial Extent
     datajson: spatialExtent
-  - fiels_name: temporalExtent
+  - field_name: temporalExtent
     label: Temporal Extent
     datajson: temporalExtent
   
