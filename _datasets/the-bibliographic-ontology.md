@@ -17,7 +17,6 @@ resources:
       quotes, books, articles, etc) on the Semantic Web
     license: ''
     status: Active
-    accessService: ''
     byteSize: '84.041'
     issued: '2009-11-04'
     language: en
@@ -56,4 +55,5 @@ namespacesGenerated: ''
 namespacesReused: ''
 datasetLevel: ''
 spatialExtent: Unknown
+temporalExtent: Unknown
 ---
