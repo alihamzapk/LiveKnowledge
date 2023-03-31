@@ -101,7 +101,7 @@ resource_fields:
   - field_name: name
     label: Resource Name
     datajson: distribution.title
-  - field_name: downloadURL
+  - field_name: url
     label: URL
     datajson: distribution.downloadURL
   - field_name: format
