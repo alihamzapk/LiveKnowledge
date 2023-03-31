@@ -1,6 +1,9 @@
 ---
 schema: default
 title: The DBpedia Ontology
+notes: >-
+  The DBpedia ontology provides the classes and properties used in the DBpedia
+  data set.
 organization: DataScientia Foundation
 resources:
   - name: DBPedia.UAN.owl
@@ -23,11 +26,7 @@ resources:
     example: ''
     ReferenceLKRepository: SREP
     referenceOntology: ''
-    spatialExtent: ''
     referenceDatasets: ''
-description: >-
-  The DBpedia ontology provides the classes and properties used in the DBpedia
-  data set.
 distribution: ''
 keyword: ''
 publisher: DBpedia Organization
@@ -38,11 +37,10 @@ versionNotes: >-
 landingPage: 'https://dbpedia.org/ontology/'
 accessRigths: Public
 creator: DBpedia Organization
-hasVersion: ''
-isVersionOf: ''
-identifier: UP_DB
+hasVersion: Unknown
+isVersionOf: Unknown
 issued: '2016-05-21'
-modified: ''
+modified: '8 November 2021, 04:55 (UTC+01:00)'
 language: en
 provenance: ''
 page: 'https://www.dbpedia.org/'
@@ -52,11 +50,10 @@ formalityLevel: Teleontology
 OntologyEngineeringMethodology: information extraction
 acronym: DBpedia
 CompetencyQuestion: ''
-maxDepth: ''
 preferredNamespacePrefix: dbo
-preferredNamespaceUri: ''
 toDoList: To completely annotate.
 namespacesGenerated: ''
 namespacesReused: ''
 datasetLevel: ''
+spatialExtent: 'Unknown '
 ---
