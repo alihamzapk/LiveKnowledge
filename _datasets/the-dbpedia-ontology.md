@@ -15,7 +15,6 @@ resources:
       DBpedia data set.
     license: 'CC '
     status: Active
-    accessService: ''
     byteSize: 2.199.546
     issued: '2016-05-21'
     language: en
@@ -56,4 +55,5 @@ namespacesGenerated: ''
 namespacesReused: ''
 datasetLevel: ''
 spatialExtent: 'Unknown '
+temporalExtent: Unknown
 ---
