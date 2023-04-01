@@ -9,29 +9,37 @@ organization: DataScientia Foundation
 distribution: foaf-owl
 keyword: People
 publisher: Dan Brickley
-theme: Up
-versionNotes: ''
-landingPage: ''
-accessRigths: ''
-creator: ''
-hasVersion: ''
-isVersionOf: ''
-issued: ''
-modified: ''
+theme: Upper Level
+versionNotes: No updates since 2014
+landingPage: 'http://www.foaf-project.org/'
+accessRigths: Public
+creator: 'Libbly Miller, Dan Brickley'
+hasVersion: Unknown
+isVersionOf: Unknown
+issued: '2014-01-14'
+modified: '17 December 2020, 01:33 (UTC+01:00)'
 language: ''
-provenance: ''
-page: ''
+provenance: >-
+  "(2013-06-04) Bernard Vatant: From the specification : ""FOAF has been
+  evolving gradually since its creation in mid-2000. There is now a stable core
+  of classes and properties that will not be changed, beyond modest adjustments
+  to their documentation to track implementation feedback and emerging best
+  practices."" (2014-12-16) Bernard Vatant: Annual review OK (2014-01-15)
+  Bernard Vatant: Looking forward for v1.0 :) (2015-12-16) Ghislain Atemezing:
+  Annual review OK (2019-10-17) Ghislain Atemezing: No updates since 2014
+  Provenance from: LOV"
+page: 'http://xmlns.com/foaf/0.1/'
 wasGeneratedBy: ''
-versionInfo: ''
-formalityLevel: ''
+versionInfo: version 0.99
+formalityLevel: Teleontology
 OntologyEngineeringMethodology: ''
-acronym: ''
+acronym: foaf
 CompetencyQuestion: ''
-preferredNamespacePrefix: ''
-toDoList: ''
+preferredNamespacePrefix: foaf
+toDoList: To completely annotate.
 namespacesGenerated: ''
 namespacesReused: ''
-datasetLevel: ''
-spatialExtent: ''
-temporalExtent: ''
+datasetLevel: Knowledge level (L3-4)
+spatialExtent: Unknown
+temporalExtent: Unknown
 ---
