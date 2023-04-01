@@ -10,10 +10,6 @@
   logo: /img/categories/arts-culture-history.svg
   featured: true
   url:
-- name: LK mappings
-  logo: /img/categories/arts-culture-history.svg
-  featured: true
-  url:
 - name: Knowledge Embedder
   logo: /img/categories/arts-culture-history.svg
   featured: true
@@ -27,10 +23,6 @@
   featured: true
   url:
 - name: Cue generator 
-  logo: /img/categories/arts-culture-history.svg
-  featured: true
-  url:
-- name: Query catalog 
   logo: /img/categories/arts-culture-history.svg
   featured: true
   url:
