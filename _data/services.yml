@@ -1,5 +1,5 @@
 - name: Upload
-  logo: /img/categories/arts-culture-history.svg
+  logo: /img/Upload_logo.png
   featured: true
   url:
 - name: Annotator
@@ -7,22 +7,22 @@
   featured: true
   url:
 - name: Knowledge-translation
-  logo: /img/categories/arts-culture-history.svg
+  logo: /img/Ktranslation_logo.png
   featured: true
   url:
 - name: Knowledge Embedder
-  logo: /img/categories/arts-culture-history.svg
+  logo: /img/Kembedder_logo.png
   featured: true
   url:
 - name: FCA generator 
-  logo: /img/categories/arts-culture-history.svg
+  logo: /img/FCA_logo.png
   featured: true
   url:
 - name: Visualization generator
-  logo: /img/categories/arts-culture-history.svg
+  logo: /img/Visualization_logo.png
   featured: true
   url:
 - name: Cue generator 
-  logo: /img/categories/arts-culture-history.svg
+  logo: /img/Cue_logo.png
   featured: true
   url:

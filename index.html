@@ -39,7 +39,7 @@ layout: default
   {% capture logo_alt %}{{ service.name }}{% if service.logo_credit and service.logo_credit != empty %} logo by {{ service.logo_credit }}{% endif %}{% endcapture %}
   <a href="{{service.url}}" class="thumbnail" title="{{ logo_alt }}">
     {% if service.logo and service.logo != empty %}
-    <img src="{{ site.baseurl }}{{ service.logo }}" alt="{{ logo_alt }}" style="width:60px;height:50px;">
+    <img src="{{ site.baseurl }}{{ service.logo }}" alt="{{ logo_alt }}" style="width:80px;height:80px;">
     {% endif %}
     {{ service.name }}
   </a>
