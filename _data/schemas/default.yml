@@ -23,6 +23,7 @@ dataset_fields:
     datajson: publisher
   - field_name: category
     label: Theme
+    form_template: form/category.html
     display_template: display/category.html
     datajson: category
   - field_name: versionNotes 
