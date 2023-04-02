@@ -16,10 +16,10 @@ resources:
     language: ''
     modified: '17 December 2020, 01:42 (UTC+01:00)'
     OntologyEngineeringTool: Protégé
-    ontologyLanguage: o
-    ontologySyntax: ''
+    ontologyLanguage: owl
+    ontologySyntax: rdf
     example: ''
-    ReferenceLKRepository: ''
+    ReferenceLKRepository: SREP
     referenceOntology: ''
     referenceDatasets: ''
 distribution: geovocab-owl
