@@ -35,7 +35,7 @@ resources:
 distribution: crm-owl
 keyword: Customer managment
 publisher: ''
-category: Upper-Level
+category: ''
 versionNotes: '2016: Annual review OK'
 landingPage: 'https://cidoc-crm.org/'
 accessRigths: Public
