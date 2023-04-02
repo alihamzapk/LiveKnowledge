@@ -31,7 +31,7 @@ resources:
 distribution: foaf-owl
 keyword: People
 publisher: Dan Brickley
-theme: Upper Level
+theme: Upper-Level
 versionNotes: No updates since 2014
 landingPage: 'http://www.foaf-project.org/'
 accessRigths: Public
