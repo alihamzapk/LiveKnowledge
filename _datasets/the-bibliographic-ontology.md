@@ -31,7 +31,7 @@ resources:
 distribution: bibo-owl
 keyword: Biblioigraphy
 publisher: ''
-category: Upper-Level
+category: ''
 versionNotes: 'As of today, the URI is not available.'
 landingPage: 'http://purl.org/ontology/bibo/'
 accessRigths: Public
