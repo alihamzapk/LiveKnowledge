@@ -8,7 +8,7 @@ notes: >-
 organization: DataScientia Foundation
 resources:
   - name: BIBO.UAN.owl
-    downloadURL: >-
+    url: >-
       http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/bibliography/raw/master/BIBO.UAN.owl
     format: owl
     description: >-
@@ -41,7 +41,12 @@ isVersionOf: Unknown
 issued: '2009-11-04'
 modified: '17 December 2020, 01:29 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: >-
+  "(2013-06-02) Ghislain Atemezing: THE ontology to look at first when dealing
+  with bibliographical records on the semantic web. (2014-06-03) Bernard Vatant:
+  Annual review OK (2015-06-02) Bernard Vatant: Annual review - no change
+  (2019-10-21) Ghislain Atemezing: As of today, the URI is not available.
+  Provenance from: LOV"
 page: 'http://purl.org'
 wasGeneratedBy: ''
 versionInfo: version 1.3
@@ -53,7 +58,7 @@ preferredNamespacePrefix: bibo
 toDoList: To completely annotate.
 namespacesGenerated: ''
 namespacesReused: ''
-datasetLevel: ''
+datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown
 ---
