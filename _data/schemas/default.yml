@@ -21,7 +21,7 @@ dataset_fields:
   - field_name: publisher
     label: Publisher
     datajson: publisher
-  - field_name: theme 
+  - field_name: category
     label: Theme
     display_template: display/category.html
     datajson: category
