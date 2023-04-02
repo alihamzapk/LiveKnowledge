@@ -29,7 +29,8 @@ resources:
 distribution: dbpedia-owl
 keyword: 'Wikipedia, Multilingual Knowledge Base'
 publisher: DBpedia Organization
-category: ''
+category:
+  - Upper-Level
 versionNotes: >-
   new version 4.2-SNAPSHOT from this URL:
   http://vmdbpedia.informatik.uni-leipzig.de:8088/2016-04/ontology.owl
