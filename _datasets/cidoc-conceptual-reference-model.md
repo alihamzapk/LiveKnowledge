@@ -28,7 +28,7 @@ provenance: >-
   Atemezing: Anual review OK! Still lacking metadata for the vocabulary in RDFS.
   (2013-11-14) Bernard Vatant: Changed URI to more recent and official version
   in RDFS, which lacks metadata but comes in several languages. (2016-01-25)
-  Ghislain Atemezing: Annual review OK" P
+  Ghislain Atemezing: Annual review OK" 
 page: ''
 wasGeneratedBy: ''
 versionInfo: ''
