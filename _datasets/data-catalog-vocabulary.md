@@ -56,7 +56,7 @@ provenance: >-
   and expands the original but preserves backward compatibility. (2020-11-01)
   Ghislain Atemezing: Review - OK         Provenance from: LOV "
 page: 'http://www.w3.org/ns/dcat'
-wasGeneratedBy: ''
+wasGeneratedBy: governament data catalog development
 versionInfo: version 2020.0204
 formalityLevel: Teleontology
 OntologyEngineeringMethodology: ''
