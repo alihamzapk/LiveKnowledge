@@ -31,7 +31,7 @@ resources:
 distribution: bibo-owl
 keyword: Biblioigraphy
 publisher: ''
-theme: Upper Level
+category: Upper-Level
 versionNotes: 'As of today, the URI is not available.'
 landingPage: 'http://purl.org/ontology/bibo/'
 accessRigths: Public
@@ -41,12 +41,7 @@ isVersionOf: Unknown
 issued: '2009-11-04'
 modified: '17 December 2020, 01:29 (UTC+01:00)'
 language: en
-provenance: >-
-  "(2013-06-02) Ghislain Atemezing: THE ontology to look at first when dealing
-  with bibliographical records on the semantic web. (2014-06-03) Bernard Vatant:
-  Annual review OK (2015-06-02) Bernard Vatant: Annual review - no change
-  (2019-10-21) Ghislain Atemezing: As of today, the URI is not available.
-  Provenance from: LOV"
+provenance: ''
 page: 'http://purl.org'
 wasGeneratedBy: ''
 versionInfo: version 1.3
