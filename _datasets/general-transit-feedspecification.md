@@ -18,7 +18,7 @@ resources:
       Linked GTFS model can be used as a start to get the right data into the
       right format. @en
     license: ''
-    status: Active
+    status: Unannotated
     byteSize: '50.669'
     issued: '2014-10-27'
     language: en
@@ -45,10 +45,7 @@ isVersionOf: Unknown
 issued: '2014-10-27'
 modified: '17 December 2020, 01:33 (UTC+01:00)'
 language: en
-provenance: >-
-  "(2014-10-23) Ghislain Atemezing: An ontology for translating the General
-  Transit Feed Specification towards URIs. (2016-01-09) Ghislain Atemezing:
-  Fixed version history Provenance from: LOV"
+provenance: ''
 page: 'http://vocab.gtfs.org/terms#'
 wasGeneratedBy: ''
 versionInfo: version v2014.10-27
