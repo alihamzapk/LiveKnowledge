@@ -16,7 +16,7 @@ resources:
       concepts. It does not describe domain concepts, time, locations, etc.
       these are intended to be included from other ontologies via OWL imports.
     license: ''
-    status: ''
+    status: Unannotated
     byteSize: '27.176'
     issued: '2017-04-17'
     language: en
@@ -47,7 +47,7 @@ provenance: >-
   W3C/OGC working group
 page: 'http://www.w3.org/ns/ssn/'
 wasGeneratedBy: ''
-versionInfo: "\"version \tv2017-04-17\""
+versionInfo: ''
 formalityLevel: Teleontology
 OntologyEngineeringMethodology: ''
 acronym: ssno
