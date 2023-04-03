@@ -19,7 +19,7 @@ resources:
       NOT a definition of the CIDOC CRM, but an encoding derived from the
       authoritative release of the CIDOC CRM v5.0.4 on
       http://www.cidoc-crm.org/official_release_cidoc.html @en
-    license: ''
+    license: CC BY-SA 4.0
     status: Active
     byteSize: '523.623'
     issued: '2012-12-17'
