@@ -10,7 +10,7 @@ resources:
     format: owl
     description: A vocabulary for describing topological relations between features @en
     license: ''
-    status: Active
+    status: Unannotated
     byteSize: '11.135'
     issued: '2012-02-05'
     language: ''
