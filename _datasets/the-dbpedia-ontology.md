@@ -14,7 +14,7 @@ resources:
       The DBpedia ontology provides the classes and properties used in the
       DBpedia data set.
     license: 'CC '
-    status: Active
+    status: Unannotated
     byteSize: 2.199.546
     issued: '2016-05-21'
     language: en
