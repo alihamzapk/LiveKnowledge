@@ -20,7 +20,7 @@ resources:
       authoritative release of the CIDOC CRM v5.0.4 on
       http://www.cidoc-crm.org/official_release_cidoc.html @en
     license: CC BY-SA 4.0
-    status: Active
+    status: Unannotated
     byteSize: '523.623'
     issued: '2012-12-17'
     language: 'de, el, en, fr, pt, ru'
