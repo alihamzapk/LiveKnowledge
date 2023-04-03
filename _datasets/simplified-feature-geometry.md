@@ -14,7 +14,7 @@ resources:
       A specification of GeoSPARQL for simple features geometries (points,
       lines, polygons ...) @en
     license: ''
-    status: Active
+    status: Unannotated
     byteSize: '28.292'
     issued: '2012-09-11'
     language: en
@@ -40,11 +40,7 @@ isVersionOf: Unknown
 issued: '2012-09-11'
 modified: '17 December 2020, 01:42 (UTC+01:00)'
 language: en
-provenance: >-
-  "(2013-08-31) María Poveda-Villalón: ReadMe:
-  http://schemas.opengis.net/sf/ReadMe.txt (2014-11-04) Bernard Vatant: Annual
-  review OK (2016-01-14) Ghislain Atemezing: Fixed version number Provenance
-  from: LOV"
+provenance: ''
 page: 'http://www.opengis.net/ont/sf'
 wasGeneratedBy: ''
 versionInfo: version v1.0.1
