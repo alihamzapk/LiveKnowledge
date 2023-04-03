@@ -131,6 +131,11 @@ resource_fields:
   - field_name: status
     label: Status
     datajson: distribbution.status
+    form_template: form/dropdown.html
+    values:
+    - Unannotated
+    - Partially annotated
+    - Annotated
   - field_name: byteSize
     label: Bite Size
     datajson: distribution.bytesize
