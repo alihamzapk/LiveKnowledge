@@ -16,7 +16,7 @@ resources:
       Regardless of whether information is in people's heads, in physical or
       digital documents, or in the form of factual data, it can be linked. @en
     license: ''
-    status: Active
+    status: Unannotated
     byteSize: '37.428'
     issued: '2014-01-14'
     language: ''
