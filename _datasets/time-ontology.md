@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: unknown
+    referenceDatasets: unknown
 distribution: time-owl
 keyword: Time
 publisher: W3C
@@ -49,34 +49,17 @@ isVersionOf: Unknown
 issued: '2017-04-06'
 modified: '17 December 2020, 01:44 (UTC+01:00)'
 language: en
-provenance: >-
-  "(2013-05-22) Bernard Vatant: This important vocabulary is much reused, but is
-  unfortunately stuck on the W3C track at ""Working Draft"" stage, and badly
-  needs to move forward. (2014-05-21) Bernard Vatant: Another year has passed,
-  but time has not moved forward ... (2015-05-01) Bernard Vatant: ... the more
-  things change, the more they are the same. Why is time so badly ignored by the
-  linked data community? Too complicated? (2016-07-08) Ghislain Atemezing: A new
-  revised version is on the way at http://w3c.github.io/sdw/time/ by the SDW WG.
-  See https://raw.githubusercontent.com/w3c/sdw/gh-pages/time/rdf/time.ttl
-  (2017-08-09) Pierre-Yves Vandenbussche: The new version includes updates in
-  2016-2017: - initial update of OWL-Time - modified to support arbitrary
-  temporal reference systems - adjust range of time:timeZone to time:TimeZone,
-  moved up from the tzont ontology. - restore time:Year and time:January which
-  were present in the 2006 version of the ontology, but now marked deprecated. -
-  intervalIn, intervalDisjoint, monthOfYear added; TemporalUnit subclass of
-  TemporalDuration - hasTime, hasXSDDuration added; Number removed; all duration
-  elements changed to xsd:decimal - Update of OWL-Time ontology, extended to
-  support general temporal reference systems Provenance from:LOV"
+provenance: ''
 page: 'http://www.w3.org/2006/time'
 wasGeneratedBy: crowd-sourced community effort
-versionInfo: "\"version \tv2017-04-06\""
+versionInfo: ''
 formalityLevel: Teleontology
 OntologyEngineeringMethodology: ''
 acronym: time
 CompetencyQuestion: ''
 preferredNamespacePrefix: time
 toDoList: To completely annotate.
-namespacesGenerated: ''
+namespacesGenerated: unknown
 namespacesReused: ''
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
