@@ -9,20 +9,20 @@
 - name: Knowledge-translation
   logo: /img/Ktranslation_logo.png
   featured: true
-  url:
+  url: Knowledge_translation
 - name: Knowledge Embedder
   logo: /img/Kembedder_logo.png
   featured: true
-  url:
+  url: knowledge_embedder
 - name: FCA generator 
   logo: /img/FCA_logo.png
   featured: true
-  url:
+  url: FCA_generator
 - name: Visualization generator
   logo: /img/Visualization_logo.png
   featured: true
-  url:
+  url: Visualization_generator
 - name: Cue generator 
   logo: /img/Cue_logo.png
   featured: true
-  url:
+  url: Cue_generator
