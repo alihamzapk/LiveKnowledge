@@ -5,7 +5,7 @@
 - name: Annotator
   logo: /img/Annotator_logo.png
   featured: true
-  url:
+  url: annotator
 - name: Knowledge-translation
   logo: /img/Ktranslation_logo.png
   featured: true
