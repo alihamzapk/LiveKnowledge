@@ -1,7 +1,7 @@
 - name: Upload
   logo: /img/Upload_logo.png
   featured: true
-  url:
+  url: upload
 - name: Annotator
   logo: /img/Annotator_logo.png
   featured: true
