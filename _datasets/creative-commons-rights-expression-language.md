@@ -20,10 +20,10 @@ resources:
     language: en
     modified: '17 December 2020, 01:29 (UTC+01:00)'
     OntologyEngineeringTool: Protégé
-    ontologyLanguage: ''
-    ontologySyntax: ''
+    ontologyLanguage: owl
+    ontologySyntax: rdf
     example: ''
-    ReferenceLKRepository: ''
+    ReferenceLKRepository: SREP
     referenceOntology: ''
     referenceDatasets: ''
 distribution: cc-owl
