@@ -33,7 +33,7 @@ resources:
     referenceOntology: ''
     referenceDatasets: ''
 distribution: crm-owl
-keyword: Customer managment
+keyword: Cultural Heritage
 publisher: ''
 category:
   - Upper-Level

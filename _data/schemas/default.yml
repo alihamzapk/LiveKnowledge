@@ -142,6 +142,7 @@ resource_fields:
   - field_name: issued
     label: Issued
     datajson: distribution.issued
+    type: DateTime<'Y-m-d'>
   - field_name: language
     label: Language
     datajson: distribution.language
