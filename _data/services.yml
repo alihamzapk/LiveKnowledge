@@ -7,11 +7,11 @@
   featured: true
   url: annotator
 - name: Knowledge-translation
-  logo: /img/Ktranslation_logo.png
+  logo: /img/Knowledge_translation_logo.png
   featured: true
   url: Knowledge_translation
 - name: Knowledge Embedder
-  logo: /img/Kembedder_logo.png
+  logo: /img/K_embedder_logo.png
   featured: true
   url: knowledge_embedder
 - name: FCA generator 
@@ -19,10 +19,10 @@
   featured: true
   url: FCA_generator
 - name: Visualization generator
-  logo: /img/Visualization_logo.png
+  logo: /img/Visualization_gen_logo.png
   featured: true
   url: Visualization_generator
 - name: Cue generator 
-  logo: /img/Cue_logo.png
+  logo: /img/Cue_gen_logo.png
   featured: true
   url: Cue_generator
