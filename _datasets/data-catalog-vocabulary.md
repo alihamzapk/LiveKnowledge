@@ -16,7 +16,7 @@ resources:
     license: CC BY-SA 4.0
     status: Unannotated
     byteSize: '223.496'
-    issued: 03 May 2012
+    issued: '2012-05-03'
     language: en
     modified: '17 December 2020, 01:27 (UTC+01:00)'
     OntologyEngineeringTool: Protégé
