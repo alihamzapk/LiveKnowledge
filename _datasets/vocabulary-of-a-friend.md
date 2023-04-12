@@ -47,7 +47,7 @@ provenance: >-
   dataset. It provides the expressivity for LOV specific layer of metadata, such
   as links between vocabularies. (2015-05-05) Bernard Vatant: Annual review.
   Fixed version history (2016-07-08) Ghislain Atemezing: Annual review. No
-  changes. Provenance from: LOV Provenance from: LOV"
+  changes. Provenance from: LOV"
 page: 'http://purl.org/vocommons/voaf'
 wasGeneratedBy: ''
 versionInfo: version v2.3
