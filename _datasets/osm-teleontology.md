@@ -5,7 +5,8 @@ notes: A teleontology developed based on data from Open Street Maps.
 organization: DataScientia Foundation
 resources:
   - name: OSM-TONTO.UAN.owl
-    url: ''
+    url: >-
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/Trentino%20OSM%20teleontology.owl
     format: owl
     description: The OWL RDF/XML distribution of the OSM Teleontology.
     license: ''
