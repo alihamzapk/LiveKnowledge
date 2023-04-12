@@ -5,7 +5,8 @@ notes: A lightweight ontology developed based on data from Open Street Maps.
 organization: DataScientia Foundation
 resources:
   - name: OSM-LO.UAN.owl
-    url: ''
+    url: >-
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/OSM%20LWontology.owl
     format: owl
     description: >-
       A OWL RDF/XML distribution of the lightweight ontology developed based on
@@ -26,8 +27,6 @@ resources:
 distribution: osm-lwo-owl
 keyword: Geography
 publisher: DataScientia Foundation
-category:
-  - Teeritory&Society
 versionNotes: Version 1.0 - Unannotated.
 landingPage: Unknown.
 accessRigths: Public
