@@ -173,7 +173,7 @@ resource_fields:
     label: Reference Ontology 
     datajson: referenceOntology
   - field_name: referenceDatasets
-    label: Reference Datasets
+    label: Example Datasets
     datajson: referenceDatasets
 
 organization_fields:
