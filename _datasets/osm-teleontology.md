@@ -11,7 +11,7 @@ resources:
     description: The OWL RDF/XML distribution of the OSM Teleontology.
     license: Creative Commons
     status: Unannotated
-    byteSize: '338'
+    byteSize: '346.498'
     issued: '2023-04-12'
     language: en
     modified: '11 April 2023, 06:43 (UTC+01:00)'
