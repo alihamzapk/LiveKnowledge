@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: unknown
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: unknown
-    referenceDatasets: unknown
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: time-owl
 keyword: Time
 publisher: W3C
@@ -52,15 +52,15 @@ language: en
 provenance: ''
 page: 'http://www.w3.org/2006/time'
 wasGeneratedBy: crowd-sourced community effort
-versionInfo: ''
+versionInfo: version v2017-04-06
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: time
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: time
 toDoList: To completely annotate.
-namespacesGenerated: unknown
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

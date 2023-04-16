@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: unknown
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: unknown
-    referenceDatasets: unknown
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: vivo-owl
 keyword: Academy
 publisher: DataScientia Foundation
@@ -47,11 +47,11 @@ versionInfo: Version 1.6
 formalityLevel: Teleontology
 OntologyEngineeringMethodology: 'https://cns.iu.edu/docs/publications/2012-borner-vivobook.pdf#page=33'
 acronym: vivo
-CompetencyQuestion: unknown
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: core
 toDoList: To completely annotate.
 namespacesGenerated: unknown
-namespacesReused: ''
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

@@ -24,13 +24,13 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: gr-owl
 keyword: eBuisness
-publisher: ''
+publisher: Unknown
 category:
   - Upper-Level
 versionNotes: '2017: Annual review - OK'
@@ -49,16 +49,16 @@ provenance: >-
   - OK (2016-02-18) Ghislain Atemezing: Annual review - OK Provenancce from:
   LOV"
 page: 'http://purl.org/goodrelations/v1'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v2011-10-01
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: gr
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: goodrelations
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

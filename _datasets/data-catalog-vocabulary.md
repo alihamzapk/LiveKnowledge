@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: RDF
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: dcat.owl
 keyword: Catalogs
 publisher: W3C Data Exchange Working Group
@@ -45,13 +45,13 @@ page: 'http://www.w3.org/ns/dcat'
 wasGeneratedBy: governament data catalog development
 versionInfo: version 2020.0204
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: dcat
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: dcat
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge level (L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

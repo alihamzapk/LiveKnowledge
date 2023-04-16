@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: mod-owl
 keyword: metadata
 publisher: Indian Statistical Institute
@@ -47,16 +47,16 @@ provenance: >-
   the author. (2022-09-16) María Poveda-Villalón: New version added. Provenance
   from: LOV"
 page: 'http://www.isibang.ac.in/ns/mod'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v2.0
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: mod
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: ns
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

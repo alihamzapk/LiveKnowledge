@@ -24,13 +24,13 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: bibo-owl
 keyword: Biblioigraphy
-publisher: ''
+publisher: Unknown
 category:
   - Upper-Level
 versionNotes: 'As of today, the URI is not available.'
@@ -44,16 +44,16 @@ modified: '17 December 2020, 01:29 (UTC+01:00)'
 language: en
 provenance: ''
 page: 'http://purl.org'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version 1.3
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: bibo
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: bibo
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

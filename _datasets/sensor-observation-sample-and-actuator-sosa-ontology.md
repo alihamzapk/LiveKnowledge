@@ -24,16 +24,16 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: sosa-owl
 keyword: 'IoT, Environment'
 publisher: W3C/OGC Spatial Data on the Web Working Group
 category:
   - Upper-Level
-versionNotes: ''
+versionNotes: Unknown
 landingPage: 'http://www.w3.org/'
 accessRigths: Public
 creator: W3C/OGC Spatial Data on the Web Working Group
@@ -47,13 +47,13 @@ page: 'http://www.w3.org/ns/sosa/'
 wasGeneratedBy: ''
 versionInfo: version  v2017-04-17
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: sosa
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: sosa
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

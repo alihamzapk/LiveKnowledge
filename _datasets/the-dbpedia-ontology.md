@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: dbpedia-owl
 keyword: 'Wikipedia, Multilingual Knowledge Base'
 publisher: DBpedia Organization
@@ -49,11 +49,11 @@ versionInfo: version 4.2-SNAPSHOT
 formalityLevel: Teleontology
 OntologyEngineeringMethodology: information extraction
 acronym: DBpedia
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: dbo
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: 'Unknown '
 temporalExtent: Unknown

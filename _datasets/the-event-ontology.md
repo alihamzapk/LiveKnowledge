@@ -22,13 +22,13 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: event-owl
 keyword: events
-publisher: ''
+publisher: Unknown
 category:
   - Upper-Level
 versionNotes: '2017: Annual review, no change '
@@ -47,16 +47,16 @@ provenance: >-
   review OK (2015-05-21) Bernard Vatant: Annual review, no change (2017-12-17)
   Ghislain Atemezing: Annual review, no change  Provenance from: LOV"
 page: 'http://purl.org/NET/c4dm/event.owl'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v1.0.1
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: event
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: c4dm
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

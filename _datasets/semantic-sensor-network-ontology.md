@@ -24,16 +24,16 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: ssno-owl
 keyword: IoT
 publisher: W3C
 category:
   - Upper-Level
-versionNotes: ''
+versionNotes: Unknown
 landingPage: 'http://www.w3.org/'
 accessRigths: Public
 creator: W3C/OGC Spatial Data on the Web Working Group
@@ -46,16 +46,16 @@ provenance: >-
   (2017-08-23) Ghislain Atemezing: New version of ssn ontology published by
   W3C/OGC working group
 page: 'http://www.w3.org/ns/ssn/'
-wasGeneratedBy: ''
-versionInfo: ''
+wasGeneratedBy: Unknown
+versionInfo: version v2017-04-17
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: ssno
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: ssn
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

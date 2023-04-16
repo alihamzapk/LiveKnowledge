@@ -20,10 +20,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: vcard-owl
 keyword: people
 publisher: W3C
@@ -52,16 +52,16 @@ provenance: >-
   ""stable"". (2016-07-08) Ghislain Atemezing: Still missing metadata. No
   changes. Provenance from: LOV"
 page: 'http://www.w3.org/2006/vcard/ns'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v2014-05-22
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: vcard
 CompetencyQuestion: Unknown
 preferredNamespacePrefix: vcard
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

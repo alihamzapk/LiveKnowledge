@@ -13,18 +13,18 @@ resources:
     status: Unannotated
     byteSize: '11.135'
     issued: '2012-02-05'
-    language: ''
+    language: en
     modified: '17 December 2020, 01:42 (UTC+01:00)'
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: geovocab-owl
 keyword: Topology
-publisher: ''
+publisher: Unknown
 category:
   - Upper-Level
 versionNotes: '2016: Annual review - no changes'
@@ -35,19 +35,19 @@ hasVersion: Unknown
 isVersionOf: Unknown
 issued: '2012-02-05'
 modified: '17 December 2020, 01:42 (UTC+01:00)'
-language: ''
+language: en
 provenance: ''
 page: 'http://geovocab.org/spatial'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version 2012.02.05
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: spatial
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: spatial
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

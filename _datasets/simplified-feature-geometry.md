@@ -22,13 +22,13 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: sf-owl
 keyword: Geometry
-publisher: ''
+publisher: Unknown
 category:
   - Upper-Level
 versionNotes: '2016: Fixed version number'
@@ -42,16 +42,16 @@ modified: '17 December 2020, 01:42 (UTC+01:00)'
 language: en
 provenance: ''
 page: 'http://www.opengis.net/ont/sf'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v1.0.1
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: sf
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: sf
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

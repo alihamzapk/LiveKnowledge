@@ -24,10 +24,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: voaf-owl
 keyword: metadata
 publisher: OKFN
@@ -49,16 +49,16 @@ provenance: >-
   Fixed version history (2016-07-08) Ghislain Atemezing: Annual review. No
   changes. Provenance from: LOV"
 page: 'http://purl.org/vocommons/voaf'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v2.3
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: voaf
 CompetencyQuestion: Unknown
 preferredNamespacePrefix: voaf
 toDoList: To completely annotate.
 namespacesGenerated: Unkown
-namespacesReused: ''
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

@@ -33,16 +33,16 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: cis-owl
 keyword: Culture
 publisher: Ministero dei Beni e delle Attività Culturali e il Turismo (MIBACT)
 category:
   - Upper-Level
-versionNotes: ''
+versionNotes: Unknown
 landingPage: 'http://dati.beniculturali.it/lodview/cis/.html'
 accessRigths: Public
 creator: >-
@@ -59,16 +59,16 @@ provenance: >-
   cultural institutes, their agents, multimedia files, events. Provenance from:
   LOV
 page: 'http://dati.beniculturali.it/cultural-ON/cultural-ON.owl'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v2-0
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: cis
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: cis
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

@@ -18,10 +18,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: ' GeoSPARQL-owl'
 keyword: Geometry
 publisher: Open Geospatial Consortium
@@ -42,16 +42,16 @@ provenance: >-
   Web. (2014-09-11) Bernard Vatant: Annual review OK (2016-01-12) Ghislain
   Atemezing: Annual review OK Provenance from: LOV"
 page: 'http://www.opengis.net/ont/geosparql'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version 1.0
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: gsp
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: ont
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

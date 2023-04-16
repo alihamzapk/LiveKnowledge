@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: org-owl
 keyword: organization
 publisher: W3C
@@ -44,16 +44,16 @@ modified: '17 December 2020, 01:38 (UTC+01:00)'
 language: en
 provenance: ''
 page: 'http://www.w3.org/TR/vocab-org/'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v0.8
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: org
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: org
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

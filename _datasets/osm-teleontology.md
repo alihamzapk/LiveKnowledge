@@ -9,7 +9,7 @@ resources:
       http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/Trentino%20OSM%20teleontology.owl
     format: owl
     description: The OWL RDF/XML distribution of the OSM Teleontology.
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '338'
     issued: '2023-04-12'
@@ -18,10 +18,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
     referenceOntology: UKC
-    referenceDatasets: ''
+    referenceDatasets: To Be Added
 distribution: osm-tonto-owl
 keyword: geography
 publisher: DataScientia Foundation
@@ -45,11 +45,11 @@ versionInfo: version v1.0
 formalityLevel: Teleontology
 OntologyEngineeringMethodology: iTelos Knowledge Modelling Methodology
 acronym: OSM-TONTO
-CompetencyQuestion: unknown
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: ds-osm-tonto
 toDoList: To completely annotate.
-namespacesGenerated: unknown
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

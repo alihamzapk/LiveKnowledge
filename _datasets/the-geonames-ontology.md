@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: geonames-owl
 keyword: geography
 publisher: Geonames.org
@@ -42,16 +42,16 @@ modified: '17 December 2020, 01:33 (UTC+01:00)'
 language: en
 provenance: ''
 page: 'http://www.geonames.org/ontology'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version 3.1
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: gn
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: ontology
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

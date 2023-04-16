@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: ical-owl
 keyword: Time
 publisher: W3C
@@ -42,16 +42,16 @@ modified: '17 December 2020, 01:38 (UTC+01:00)'
 language: en
 provenance: ''
 page: 'http://semweb.mmlab.be/ns/oh'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v2015.0522
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: oh
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: oh
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge level (L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

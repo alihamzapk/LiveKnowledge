@@ -28,13 +28,13 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: OWL
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: crm-owl
 keyword: Cultural Heritage
-publisher: ''
+publisher: Unknown
 category:
   - Upper-Level
 versionNotes: '2016: Annual review OK'
@@ -48,16 +48,16 @@ modified: '17 March 2020, 21:30 (UTC+01:00)'
 language: 'de, el, en, fr, pt, ru'
 provenance: ''
 page: 'http://www.cidoc-crm.org/cidoc-crm/'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version 5.04
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: crm
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: cidoc-crm
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

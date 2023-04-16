@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Friend Of  A Friend vocabulary
+title: Friend Of A Friend vocabulary
 notes: >-
   FOAF is a project devoted to linking people and information using the Web.
   Regardless of whether information is in people's heads, in physical or digital
@@ -19,15 +19,15 @@ resources:
     status: Unannotated
     byteSize: '37.428'
     issued: '2014-01-14'
-    language: ''
+    language: en
     modified: '17 December 2020, 01:29 (UTC+01:00)'
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: foaf-owl
 keyword: People
 publisher: Dan Brickley
@@ -41,19 +41,19 @@ hasVersion: Unknown
 isVersionOf: Unknown
 issued: '2014-01-14'
 modified: '17 December 2020, 01:33 (UTC+01:00)'
-language: ''
+language: en
 provenance: ''
 page: 'http://xmlns.com/foaf/0.1/'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version 0.99
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: foaf
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: foaf
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge level (L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

@@ -23,10 +23,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: skos-owl
 keyword: Concept schemes
 publisher: W3C
@@ -45,16 +45,16 @@ modified: '17 December 2020, 01:42 (UTC+01:00)'
 language: en
 provenance: ''
 page: 'http://www.w3.org/2004/02/skos/core'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: W3C-Recommendation
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: skos
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: skos
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

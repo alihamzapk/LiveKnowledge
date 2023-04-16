@@ -20,17 +20,17 @@ resources:
     byteSize: '169.582'
     issued: '2017-04-10'
     language: en
-    modified: en
+    modified: 17 December 2020, 01:32 (UTC+01:00)
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: dul-owl
-keyword: ''
-publisher: ''
+keyword: Unknown
+publisher: Unknown
 category:
   - Upper-Level
 versionNotes: >-
@@ -58,20 +58,20 @@ provenance: >-
   exclude a direct applicability of qualities or regions to any other entity
   Provenance from: LOV"
 page: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: >-
   2017: dded a restriction to Quality and one to Region in order to ensure the
   original DOLCE constraint of qualities being always associated with a region,
   and vice versa. These axioms do not however exclude a direct applicability of
   qualities or regions to any other entity
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: dul
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: dul
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown

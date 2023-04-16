@@ -22,10 +22,10 @@ resources:
     OntologyEngineeringTool: Protégé
     ontologyLanguage: owl
     ontologySyntax: rdf
-    example: ''
+    example: Unknown
     ReferenceLKRepository: SREP
-    referenceOntology: ''
-    referenceDatasets: ''
+    referenceOntology: Unknown
+    referenceDatasets: Unknown
 distribution: cc-owl
 keyword: Licence
 publisher: Creative Commons
@@ -34,24 +34,24 @@ category:
 versionNotes: '2016: Annual review OK.'
 landingPage: 'http://creativecommons.org/'
 accessRigths: Public
-creator: ''
+creator: Unknown
 hasVersion: Unknown
 isVersionOf: Unknown
 issued: '2008-03-03'
 modified: '17 December 2020, 01:29 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: Unknown
 page: 'http://creativecommons.org/ns'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version v2008-03-03
 formalityLevel: Teleontology
-OntologyEngineeringMethodology: ''
+OntologyEngineeringMethodology: Unknown
 acronym: cc
-CompetencyQuestion: ''
+CompetencyQuestion: Unknown
 preferredNamespacePrefix: ns
 toDoList: To completely annotate.
-namespacesGenerated: ''
-namespacesReused: ''
+namespacesGenerated: Unknown
+namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown
