@@ -15,7 +15,7 @@ resources:
       The GoodRelations ontology provides the vocabulary for annotating
       e-commerce offerings (1) to sell, lease, repair, dispose, or maintain
       commodity products and (2) to provide commodity services
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '156.054'
     issued: '2011-10-01'

@@ -17,7 +17,7 @@ resources:
       towards URIs. Its intended use is creating an exchange platform where the
       Linked GTFS model can be used as a start to get the right data into the
       right format. @en
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '50.669'
     issued: '2014-10-27'
@@ -45,7 +45,9 @@ isVersionOf: Unknown
 issued: '2014-10-27'
 modified: '17 December 2020, 01:33 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: "(2014-10-23) Ghislain Atemezing: An ontology for translating the General Transit Feed Specification towards URIs.
+(2016-01-09) Ghislain Atemezing: Fixed version history
+Provenance from: LOV"
 page: 'http://vocab.gtfs.org/terms#'
 wasGeneratedBy: Unknown
 versionInfo: version v2014.10-27

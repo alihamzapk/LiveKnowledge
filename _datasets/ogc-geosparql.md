@@ -9,7 +9,7 @@ resources:
       http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/GEOSPARQL.UAN.owl
     format: owl
     description: A Geographic Query Language for RDF Data OGC 11-052r5 @en
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '75.913'
     issued: '2012-04-30'

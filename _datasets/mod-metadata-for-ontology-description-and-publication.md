@@ -13,7 +13,7 @@ resources:
     description: >-
       This specification describes MOD, a metadata vocabulary to describe and
       publish ontologies
-    license: ''
+    license: Creative Commmons
     status: Unannotated
     byteSize: '46.782'
     issued: '2018-08-02'

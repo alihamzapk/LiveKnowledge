@@ -15,7 +15,7 @@ resources:
       This ontology describes sensors, actuators and observations, and related
       concepts. It does not describe domain concepts, time, locations, etc.
       these are intended to be included from other ontologies via OWL imports.
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '27.176'
     issued: '2017-04-17'

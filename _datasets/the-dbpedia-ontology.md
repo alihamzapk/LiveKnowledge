@@ -13,7 +13,7 @@ resources:
     description: >-
       The DBpedia ontology provides the classes and properties used in the
       DBpedia data set.
-    license: 'CC '
+    license: 'Creative Commmons'
     status: Unannotated
     byteSize: 2.199.546
     issued: '2016-05-21'
@@ -42,7 +42,12 @@ isVersionOf: Unknown
 issued: '2016-05-21'
 modified: '8 November 2021, 04:55 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: "(2014-09-09) Pierre-Yves Vandenbussche: The ontology behind the famous DBpedia (semantic extraction of Wikipedia information). An example of multilingual vocabulary with 25 languages.
+(2015-03-11) Pierre-Yves Vandenbussche: This vocabulary could still benefit from more metadata (issued date, publisher, etc.)
+(2016-02-18) Ghislain Atemezing: Annual review - Added a new version of the vocabulary
+(2016-07-18) Ghislain Atemezing: Added new version 4.1-SNAPSHOT in the annual review
+(2016-09-09) Pierre-Yves Vandenbussche: Added new version 4.2-SNAPSHOT from this URL: http://vmdbpedia.informatik.uni-leipzig.de:8088/2016-04/ontology.owl official ontology URL does not contain rdfs:label anymore ...
+Provenance from: LOV"
 page: 'https://www.dbpedia.org/'
 wasGeneratedBy: crowd-sourced community effort
 versionInfo: version 4.2-SNAPSHOT

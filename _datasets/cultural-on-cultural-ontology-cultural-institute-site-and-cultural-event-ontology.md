@@ -24,7 +24,7 @@ resources:
       other information useful to the public in order to access the institute or
       site. Moreover, the ontology represents events that can take place in
       specific cultural institutes or sites
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '236.881 '
     issued: '2016-03-30'

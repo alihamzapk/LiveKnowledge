@@ -15,7 +15,7 @@ resources:
       The DOLCE+DnS Ultralite ontology. It is a simplification of some parts of
       the DOLCE Lite-Plus library (cf.
       http://www.ontologydesignpatterns.org/ont/dul/DLP397.owl)
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '169.582'
     issued: '2017-04-10'

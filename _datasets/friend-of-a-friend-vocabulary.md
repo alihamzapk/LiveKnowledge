@@ -15,7 +15,7 @@ resources:
       FOAF is a project devoted to linking people and information using the Web.
       Regardless of whether information is in people's heads, in physical or
       digital documents, or in the form of factual data, it can be linked. @en
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '37.428'
     issued: '2014-01-14'
@@ -42,7 +42,12 @@ isVersionOf: Unknown
 issued: '2014-01-14'
 modified: '17 December 2020, 01:33 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: "(2013-06-04) Bernard Vatant: From the specification : ""FOAF has been evolving gradually since its creation in mid-2000. There is now a stable core of classes and properties that will not be changed, beyond modest adjustments to their documentation to track implementation feedback and emerging best practices
+(2014-12-16) Bernard Vatant: Annual review OK
+(2014-01-15) Bernard Vatant: Looking forward for v1.0 :)
+(2015-12-16) Ghislain Atemezing: Annual review OK
+(2019-10-17) Ghislain Atemezing: No updates since 2014
+Provenance from: LOV"
 page: 'http://xmlns.com/foaf/0.1/'
 wasGeneratedBy: Unknown
 versionInfo: version 0.99

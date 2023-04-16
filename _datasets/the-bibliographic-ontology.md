@@ -15,7 +15,7 @@ resources:
       The Bibliographic Ontology Specification provides main concepts and
       properties for describing citations and bibliographic references (i.e.
       quotes, books, articles, etc) on the Semantic Web
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '84.041'
     issued: '2009-11-04'
@@ -42,7 +42,11 @@ isVersionOf: Unknown
 issued: '2009-11-04'
 modified: '17 December 2020, 01:29 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: "(2013-06-02) Ghislain Atemezing: THE ontology to look at first when dealing with bibliographical records on the semantic web.
+(2014-06-03) Bernard Vatant: Annual review OK
+(2015-06-02) Bernard Vatant: Annual review - no change
+(2019-10-21) Ghislain Atemezing: As of today, the URI is not available.
+Provenance from: LOV"
 page: 'http://purl.org'
 wasGeneratedBy: Unknown
 versionInfo: version 1.3

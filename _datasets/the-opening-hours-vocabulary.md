@@ -13,7 +13,7 @@ resources:
     description: >-
       A vocabulary to describe opening hours using calendars (recommended: iCal,
       RDFCal or schema.org) published on the Web. @en
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '37.922'
     issued: '2015-05-22'
@@ -40,7 +40,10 @@ isVersionOf: Unknown
 issued: '2015-05-22'
 modified: '17 December 2020, 01:38 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: "(2014-06-17) Ghislain Atemezing: A small vocabulary for structuring opening hours on the web based on the calendar. More details can be found at openinghours.io.
+(2015-07-19) Ghislain Atemezing: Annual review - OK
+(2019-10-21) Ghislain Atemezing: Annual review - OK
+Provenance from:LOV"
 page: 'http://semweb.mmlab.be/ns/oh'
 wasGeneratedBy: Unknown
 versionInfo: version v2015.0522

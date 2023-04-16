@@ -13,7 +13,7 @@ resources:
     description: >-
       This ontology deals with the notion of reified events - events seen as
       first-class objects.
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '9.724'
     issued: '2007-10-25'

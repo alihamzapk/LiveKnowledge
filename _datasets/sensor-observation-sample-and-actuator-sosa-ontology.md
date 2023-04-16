@@ -15,7 +15,7 @@ resources:
       This ontology is based on the SSN Ontology by the W3C Semantic Sensor
       Networks Incubator Group (SSN-XG), together with considerations from the
       W3C/OGC Spatial Data on the Web Working Group.
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '37.987'
     issued: '2017-04-17'
@@ -42,9 +42,10 @@ isVersionOf: Unknown
 issued: '2017-04-17'
 modified: '17 December 2020, 01:42 (UTC+01:00)'
 language: en
-provenance: ''
+provenance: "(2017-04-21) Ghislain Atemezing: This ontology is based on the SSN Ontology by the W3C Semantic Sensor Networks Incubator Group (SSN-XG), together with considerations from the W3C/OGC Spatial Data on the Web Working Group
+Provenance from: LOV"
 page: 'http://www.w3.org/ns/sosa/'
-wasGeneratedBy: ''
+wasGeneratedBy: Unknown
 versionInfo: version  v2017-04-17
 formalityLevel: Teleontology
 OntologyEngineeringMethodology: Unknown

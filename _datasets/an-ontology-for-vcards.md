@@ -11,7 +11,7 @@ resources:
     description: >-
       This ontology models and represents vCards in RDF using current best
       practices
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '51.073'
     issued: '2014-05-22'

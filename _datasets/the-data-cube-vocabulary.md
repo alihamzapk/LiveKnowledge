@@ -13,7 +13,7 @@ resources:
     description: >-
       This vocabulary allows multi-dimensional data, such as statistics, to be
       published in RDF
-    license: ''
+    license: Creative Commons
     status: Unannotated
     byteSize: '19.598'
     issued: '2014-07-31'
