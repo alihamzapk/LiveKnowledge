@@ -130,7 +130,7 @@ resource_fields:
     datajson: distribution.license
   - field_name: status
     label: Status
-    datajson: distribbution.status
+    datajson: distribution.status
     form_template: form/dropdown.html
     values:
     - Unannotated
