@@ -3,8 +3,15 @@
 [{% for dataset in site.datasets %}
   {
     "title": {{ dataset.title | jsonify }},
-    "maintainer": {{ dataset.maintainer | jsonify }},
-    "tags": {{ dataset.tags | jsonify }},
+    "distribution": {{ dataset.distribution | jsonify }},
+    "keyword": {{ dataset.keyword | jsonify }},
+    "publisher": {{ dataset.publisher | jsonify }},
+    "creator": {{ dataset.creator | jsonify }},
+    "issued": {{ dataset.issued | jsonify }},
+    "language": {{ dataset.language | jsonify }},
+    "formalityLevel": {{ dataset.formalityLevel | jsonify }},
+    "acronym": {{ dataset.acronym | jsonify }},
+    "status": {{ distribution.status | jsonify }},
     "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.notes != "" %},
     "category": {{ dataset.category | jsonify }}{% endif %},
