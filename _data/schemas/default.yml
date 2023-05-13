@@ -22,7 +22,7 @@ dataset_fields:
     label: Publisher
     datajson: publisher
   - field_name: category
-    label: category
+    label: Category
     form_template: form/category.html
     display_template: display/category.html
     datajson: category
