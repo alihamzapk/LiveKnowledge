@@ -6,7 +6,7 @@ organization: DataScientia Foundation
 resources:
   - name: OSM-LO.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/OSM%20LWontology.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/Trentino%20OSM%20LWOntology.owl
     format: owl
     description: >-
       A OWL RDF/XML distribution of the lightweight ontology developed based on
