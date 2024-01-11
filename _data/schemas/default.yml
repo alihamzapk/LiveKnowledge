@@ -5,7 +5,7 @@ dataset_fields:
     label: Title
     datajson: title
   - field_name: notes
-    label: Description
+    label: DatDescription
     form_template: form/textarea.html
     datajson: description
   - field_name: distribution
