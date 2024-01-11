@@ -8,9 +8,6 @@ dataset_fields:
     label: DatDescription
     form_template: form/textarea.html
     datajson: description
-  - field_name: distribution
-    label: Distribution
-    datajson: distribution
   - field_name: organization
     label: Organization
     form_template: form/organization.html
@@ -26,42 +23,15 @@ dataset_fields:
     form_template: form/category.html
     display_template: display/category.html
     datajson: category
-  - field_name: versionNotes 
-    label: VersionNotes
-    datajson: versionNotes
-  - field_name: landingPage 
-    label: LandingPage
-    datajson: landingPage
-  - field_name: accessRigths
-    label: AccessRigths
-    datajson: accessRigths
   - field_name: creator 
     label: DatCreator
     datajson: creator
-  - field_name: hasVersion 
-    label: HasVersion
-    datajson: hasVersion
-  - field_name: isVersionOf 
-    label: isVersionOf
-    datajson: isVersionOf
   - field_name: DatPublicationTimeStamp
     label: DatPublicationTimeStamp
     datajson: datPublicationTimeStamp
-  - field_name: modified
-    label: Modified
-    datajson: modified
   - field_name: language 
     label: DatLanguage
     datajson: language
-  - field_name: provenance 
-    label: Provenance
-    datajson: provenance
-  - field_name: page
-    label: Page
-    datajson: page
-  - field_name: wasGeneratedBy 
-    label: WasGeneratedBy
-    datajson: wasGeneratedBy
   - field_name: versionInfo 
     label: DatVersion
     datajson: versionInfo 
@@ -71,39 +41,12 @@ dataset_fields:
   - field_name: DatOwner
     label: DatOwner
     datajson: datOwner
-  - field_name: acronym
-    label: Acronym
-    datajson: acronym
-  - field_name: CompetencyQuestion
-    label: Competency Question
-    datajson: CompetencyQuestion
-  - field_name: preferredNamespacePrefix
-    label: Preferred Namespace Prefix
-    datajson: preferredNamespacePrefix
-  - field_name: toDoList
-    label: To Do List
-    datajson: toDoList
-  - field_name: namespacesGenerated
-    label: Namespaces Generated
-    datajson: namespacesGenerated  
-  - field_name: namespacesReused
-    label: Namespaces Reused
-    datajson: namespacesReused 
   - field_name: datasetLevel
     label: DatLevel
     datajson: datasetLevel
-  - field_name: spatialExtent
-    label: Spatial Extent
-    datajson: spatialExtent
-  - field_name: temporalExtent
-    label: Temporal Extent
-    datajson: temporalExtent
-  - field_name: ontologyLanguage
-    label: DatFormat
-    datajson: ontologyLanguage
-  - field_name: license
+  - field_name: datLicense
     label: DatLicense
-    datajson: distribution.license
+    datajson: datLicense
   - field_name: byteSize
     label: DatSize
     datajson: distribution.bytesize
@@ -134,47 +77,6 @@ resource_fields:
   - field_name: description
     label: Description
     datajson: distribution.description 
-  - field_name: status
-    label: Status
-    datajson: distribution.status
-    form_template: form/dropdown.html
-    values:
-    - Unannotated
-    - Partially annotated
-    - Annotated
-  - field_name: issued
-    label: Issued
-    datajson: distribution.issued
-    type: DateTime<'Y-m-d'>
-  - field_name: language
-    label: Language
-    datajson: distribution.language
-  - field_name: modified 
-    label: Modified
-    datajson:  distribution.modified
-  - field_name: OntologyEngineeringTool
-    label: Ontology Engineering Tool
-    datajson: OntologyEngineeringTool
-  - field_name: ontologySyntax
-    label: Ontology Syntax
-    datajson: ontologySyntax
-  - field_name: example 
-    label: Example Of Use
-    datajson: example
-  - field_name: ReferenceLKRepository
-    label: Reference LK Repository section
-    datajson: ReferenceLKRepository
-    form_template: form/dropdown.html
-    values:
-    - SREP
-    - CREP
-    - DREP
-  - field_name: referenceOntology
-    label: Reference Ontology 
-    datajson: referenceOntology
-  - field_name: referenceDatasets
-    label: Example Datasets
-    datajson: referenceDatasets
 
 organization_fields:
   - field_name: title

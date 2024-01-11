@@ -59,4 +59,7 @@ namespacesReused: Unknown
 datasetLevel: Knowledge Level(L3-4)
 spatialExtent: Unknown
 temporalExtent: Unknown
+datLicense: Creative Commons
+DatOwner: Unknown
+DatPublicationTimeStamp: Unknown
 ---
