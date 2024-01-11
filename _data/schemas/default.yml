@@ -16,7 +16,7 @@ dataset_fields:
     form_template: form/organization.html
     datajson: publisher.name
   - field_name: keyword
-    label: Keyword
+    label: DatKeyword
     datajson: keyword
   - field_name: publisher
     label: Publisher
