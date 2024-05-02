@@ -10,7 +10,7 @@ organization: DataScientia Foundation
 resources:
   - name: GTFS.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/transportation/raw/master/GTFS.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/GTFS_schema/input/raw/master/GTFS.UAN.owl
     format: owl
     description: >-
       This ontology is a translation of the General Transit Feed Specification

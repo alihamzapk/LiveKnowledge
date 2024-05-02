@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: SKOS.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/knowledge_organization/raw/master/SKOS.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/SKOS_schema/input/raw/master/SKOS.UAN.owl
     format: owl
     description: >-
       The Simple Knowledge Organization System (SKOS) is a common data model for

@@ -9,7 +9,7 @@ organization: DataScientia Foundation
 resources:
   - name: DUL.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/top_level/raw/master/DUL.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/DUL_schema/input/raw/master/DUL.UAN.owl
     format: owl
     description: >-
       The DOLCE+DnS Ultralite ontology. It is a simplification of some parts of

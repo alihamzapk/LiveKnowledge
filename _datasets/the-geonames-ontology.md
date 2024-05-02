@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: GEONAMES.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/GEONAMES.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/GEONAMES_schema/input/raw/master/GEONAMES.UAN.owl
     format: owl
     description: >-
       The Geonames ontology provides elements of description for geographical

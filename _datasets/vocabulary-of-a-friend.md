@@ -9,7 +9,7 @@ organization: DataScientia Foundation
 resources:
   - name: VOAF.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/knowledge_organization/raw/master/VOAF.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/VOAF_schema/input/raw/master/VOAF.UAN.owl
     format: owl
     description: >-
       A vocabulary to describe linked data vocabularies and their relations @en,

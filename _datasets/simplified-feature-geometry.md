@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: SF.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/SF.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/SF_schema/input/raw/master/SF.owl
     format: owl
     description: >-
       A specification of GeoSPARQL for simple features geometries (points,

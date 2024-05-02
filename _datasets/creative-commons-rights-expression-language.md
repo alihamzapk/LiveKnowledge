@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: CC.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/license/raw/master/CC.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/CC_Schema/input/raw/master/CC.UAN.owl
     format: owl
     description: >-
       The Creative Commons Rights Expression Language (CC REL) lets you describe

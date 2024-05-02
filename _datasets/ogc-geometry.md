@@ -6,7 +6,7 @@ organization: DataScientia Foundation
 resources:
   - name: GML.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/GML.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/GML_schema/input/raw/master/GML.UAN.owl
     format: owl
     description: A specialization of GeoSPARQL defining specific subtypes of Geometry @en
     license: Creative Commons

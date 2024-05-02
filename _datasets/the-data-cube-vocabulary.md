@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: QB.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/metadata/raw/master/QB.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/QB_schema/input/raw/master/QB.UAN.owl
     format: owl
     description: >-
       This vocabulary allows multi-dimensional data, such as statistics, to be

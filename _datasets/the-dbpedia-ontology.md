@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: DBPedia.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/commonsense/raw/master/DBPedia.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/DBPedia_schema/input/raw/master/DBPedia.UAN.owl
     format: owl
     description: >-
       The DBpedia ontology provides the classes and properties used in the

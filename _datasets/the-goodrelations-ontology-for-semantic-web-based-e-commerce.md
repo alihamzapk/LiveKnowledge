@@ -9,7 +9,7 @@ organization: DataScientia Foundation
 resources:
   - name: GR.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/e-commerce/raw/master/GR.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/GR-schema/input/raw/master/GR.UAN.owl
     format: owl
     description: >-
       The GoodRelations ontology provides the vocabulary for annotating

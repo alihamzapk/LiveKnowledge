@@ -6,7 +6,7 @@ organization: DataScientia Foundation
 resources:
   - name: VCARD.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/people/raw/master/VCARD.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/VCARD_schema/input/raw/master/VCARD.UAN.owl
     format: owl
     description: >-
       This ontology models and represents vCards in RDF using current best

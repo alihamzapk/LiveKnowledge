@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: MOD.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/metadata/raw/master/MOD.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/MOD_schema/input/raw/master/MOD.UAN.owl
     format: owl
     description: >-
       This specification describes MOD, a metadata vocabulary to describe and

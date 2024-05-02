@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: VIVO.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/academics/raw/master/VIVO.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/VIVO_Schema/input/raw/master/VIVO.UAN.owl
     format: owl
     description: >-
       An ontology of academic and research domain, developed in the framework of

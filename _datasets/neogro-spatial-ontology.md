@@ -6,7 +6,7 @@ organization: DataScientia Foundation
 resources:
   - name: GEOVOCAB.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/geography/raw/master/GEOVOCAB.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/GEOVOCAB_schema/input/raw/master/GEOVOCAB.UAN.owl
     format: owl
     description: A vocabulary for describing topological relations between features @en
     license: Creative Commons

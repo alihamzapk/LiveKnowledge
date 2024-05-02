@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: ORG.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/organization/raw/master/ORG.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/ORG_schema/input/raw/master/ORG.UAN.owl
     format: owl
     description: >-
       Vocabulary for describing organizational structures, specializable to a

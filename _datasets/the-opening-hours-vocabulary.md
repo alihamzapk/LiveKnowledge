@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: ICAL.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/time/raw/master/ICAL.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/ICAL_Schema/input/raw/master/ICAL.UAN.owl
     format: owl
     description: >-
       A vocabulary to describe opening hours using calendars (recommended: iCal,

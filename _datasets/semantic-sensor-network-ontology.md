@@ -9,7 +9,7 @@ organization: DataScientia Foundation
 resources:
   - name: SSNO.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/IoT/raw/master/SSNO.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/SSNO_schema/input/raw/master/SSNO.UAN.owl
     format: owl
     description: >-
       This ontology describes sensors, actuators and observations, and related

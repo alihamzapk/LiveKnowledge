@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: EVENT.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/event/raw/master/EVENT.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/EVENT_schema/input/raw/master/EVENT.UAN.owl
     format: owl
     description: >-
       This ontology deals with the notion of reified events - events seen as

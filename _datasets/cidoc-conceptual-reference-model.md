@@ -11,7 +11,7 @@ organization: DataScientia Foundation
 resources:
   - name: CRM.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/culture/raw/master/CRM.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/CRM_schema/input/raw/master/CRM.UAN.owl
     format: owl
     description: >-
       This is the encoding approved by CRM-SIG in the meeting 21/11/2012 as the

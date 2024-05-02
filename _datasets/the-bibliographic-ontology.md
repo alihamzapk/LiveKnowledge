@@ -9,7 +9,7 @@ organization: DataScientia Foundation
 resources:
   - name: BIBO.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/bibliography/raw/master/BIBO.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/BIBO_schema/input/raw/master/BIBO.UAN.owl
     format: owl
     description: >-
       The Bibliographic Ontology Specification provides main concepts and

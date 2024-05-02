@@ -14,7 +14,7 @@ organization: DataScientia Foundation
 resources:
   - name: CIS.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/culture/raw/master/CIS.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/CIS_schema/input/raw/master/CIS.UAN.owl
     format: owl
     description: >-
       The ontology aims at modelling the data on cultural institutes or sites

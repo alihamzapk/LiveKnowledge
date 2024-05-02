@@ -8,7 +8,7 @@ organization: DataScientia Foundation
 resources:
   - name: DCAT.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/metadata/raw/master/DCAT.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/DCAT_schema/input/raw/master/DCAT.UAN.owl
     format: owl
     description: >-
       CAT is an RDF vocabulary designed to facilitate interoperability between

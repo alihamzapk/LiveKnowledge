@@ -9,7 +9,7 @@ organization: DataScientia Foundation
 resources:
   - name: SOSA.UAN.owl
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/IoT/raw/master/SOSA.UAN.owl
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/SREP/SOSA_schema/input/raw/master/SOSA.UAN.owl
     format: owl
     description: >-
       This ontology is based on the SSN Ontology by the W3C Semantic Sensor
