@@ -1,0 +1,95 @@
+dataset_fields:
+- field_name: title
+  label: Title
+  datajson: title
+- field_name: version
+  label: Version
+  datajson: version
+- field_name: prefix
+  label: Prefix
+  datajson: prefix
+- field_name: notes
+  label: Description
+  form_template: form/textarea.html
+  datajson: description
+- field_name: organization                
+  label: Organization
+  form_template: form/organization.html
+  datajson: publisher.name  
+- field_name: publisher                   
+  label: Publisher
+  datajson: publisher
+- field_name: annotator
+  label: Annotator
+  datajson: annotator
+- field_name: owner
+  label: Owner
+  datajson: owner
+- field_name: ns_license
+  label: License
+  datajson: ns_license
+- field_name: other_Namespaces_Reused
+  label: Other Namespaces Reused
+  datajson: other_Namespaces_Reused
+- field_name: reusing_Namespaces      #questionable
+  label: Reusing Namespaces
+  datajson: reusing_Namespaces
+- field_name: generation_DateTime
+  label: Generation DateTime
+  datajson: generation_DateTime
+- field_name: language
+  label: Language
+  datajson: language
+- field_name: translators
+  label: Translators
+  datajson: translators
+- field_name: keywords
+  label: Keywords
+  datajson: keywords
+- field_name: category
+  label: DatDomain
+  form_template: form/category.html
+  display_template: display/category.html
+  datajson: category
+- field_name: validator
+  label: Validator
+  datajson: validator
+- field_name: import_order   #questionable
+  label: Import Order
+  datajson: import_order
+- field_name: reference_teleontology
+  label: Reference (Tele)ontology
+  datajson: reference_teleontology
+- field_name: reference_UKC_Version
+  label: Reference UKC Version
+  datajson: reference_UKC_Version
+- field_name: project_Page
+  label: Project Page
+  datajson: project_Page
+
+resource_fields:
+  - field_name: name
+    label: Resource Name
+    datajson: distribution.title
+  - field_name: url
+    label: URL
+    datajson: distribution.downloadURL
+  - field_name: format
+    label: Format
+    datajson: distribution.format
+    form_template: form/dropdown.html
+    values:
+      - api
+      - csv
+      - rdf
+      - json
+      - geojson
+      - html
+      - kml
+      - kmz
+      - shp
+      - xml
+      - owl
+  - field_name: description
+    label: Description
+    datajson: distribution.description
