@@ -32,7 +32,7 @@ distribution: voaf-owl
 keyword: metadata
 publisher: OKFN
 category:
-  - Upper-Level
+  - Knowledge Organization
 versionNotes: '2016:  Annual review. No changes.'
 landingPage: 'http://purl.org/vocommons/voaf/index.html'
 accessRigths: Public

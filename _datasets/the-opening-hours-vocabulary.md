@@ -30,7 +30,7 @@ distribution: ical-owl
 keyword: Time
 publisher: W3C
 category:
-  - Upper-Level
+  - Event and Time
 versionNotes: '2019: Annual revision OK'
 landingPage: 'https://github.com/pietercolpaert/openinghoursontology'
 accessRigths: Public

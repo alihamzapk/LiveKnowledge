@@ -30,7 +30,7 @@ distribution: org-owl
 keyword: organization
 publisher: W3C
 category:
-  - Upper-Level
+  - People and Organization
 versionNotes: '2016: Annual review - no change'
 landingPage: 'http://www.w3.org/ns/org#'
 accessRigths: Public

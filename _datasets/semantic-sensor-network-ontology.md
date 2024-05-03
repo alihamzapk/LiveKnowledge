@@ -32,7 +32,7 @@ distribution: ssno-owl
 keyword: IoT
 publisher: W3C
 category:
-  - Upper-Level
+  - Internet of Things
 versionNotes: Unknown
 landingPage: 'http://www.w3.org/'
 accessRigths: Public

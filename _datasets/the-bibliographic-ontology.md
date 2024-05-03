@@ -32,7 +32,7 @@ distribution: bibo-owl
 keyword: Biblioigraphy
 publisher: Unknown
 category:
-  - Upper-Level
+  - Culture
 versionNotes: 'As of today, the URI is not available.'
 landingPage: 'http://purl.org/ontology/bibo/'
 accessRigths: Public

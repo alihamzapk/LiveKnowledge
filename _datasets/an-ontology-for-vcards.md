@@ -18,7 +18,9 @@ DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
 publisher: W3C
 category:
-  - Upper-Level
+  - People&Organization
+typology:
+  - Ontology
 creator: 'Norman Walsh, Brian Suda, Renato Iannella, Harry Halpin'
 language: en
 versionInfo: version v2014-05-22

@@ -26,7 +26,7 @@ distribution: geovocab-owl
 keyword: Topology
 publisher: Unknown
 category:
-  - Upper-Level
+  - Geography
 versionNotes: '2016: Annual review - no changes'
 landingPage: 'http://geovocab.org/doc/neogeo/'
 accessRigths: Public

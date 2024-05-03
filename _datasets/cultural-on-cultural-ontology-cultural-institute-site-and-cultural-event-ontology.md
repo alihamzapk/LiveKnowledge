@@ -41,7 +41,7 @@ distribution: cis-owl
 keyword: Culture
 publisher: Ministero dei Beni e delle Attività Culturali e il Turismo (MIBACT)
 category:
-  - Upper-Level
+  - Culture
 versionNotes: Unknown
 landingPage: 'http://dati.beniculturali.it/lodview/cis/.html'
 accessRigths: Public

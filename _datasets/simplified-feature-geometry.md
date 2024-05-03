@@ -30,7 +30,7 @@ distribution: sf-owl
 keyword: Geometry
 publisher: Unknown
 category:
-  - Upper-Level
+  - Geography
 versionNotes: '2016: Fixed version number'
 landingPage: 'http://www.opengis.net/'
 accessRigths: Public

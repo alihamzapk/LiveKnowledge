@@ -30,7 +30,7 @@ distribution: mod-owl
 keyword: metadata
 publisher: Indian Statistical Institute
 category:
-  - Upper-Level
+  - Metadata
 versionNotes: '2022: New version added.'
 landingPage: 'http://www.isibang.ac.in/ns/mod'
 accessRigths: Public

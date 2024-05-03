@@ -30,7 +30,7 @@ distribution: qb-owl
 keyword: metadata
 publisher: W3C
 category:
-  - Upper-Level
+  - Metadata
 versionNotes: '2016: Added W3C Rec document as homepage'
 landingPage: 'http://www.w3.org/TR/vocab-data-cube/'
 accessRigths: Public

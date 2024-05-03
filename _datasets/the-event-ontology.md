@@ -30,7 +30,7 @@ distribution: event-owl
 keyword: events
 publisher: Unknown
 category:
-  - Upper-Level
+  - Event and Time
 versionNotes: '2017: Annual review, no change '
 landingPage: 'http://motools.sourceforge.net/event/event.html'
 accessRigths: Public

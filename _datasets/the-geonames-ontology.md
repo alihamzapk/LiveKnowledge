@@ -30,7 +30,7 @@ distribution: geonames-owl
 keyword: geography
 publisher: Geonames.org
 category:
-  - Upper-Level
+  - Geography
 versionNotes: '2020: Annual review OK'
 landingPage: 'http://www.geonames.org/ontology/documentation.html'
 accessRigths: Public

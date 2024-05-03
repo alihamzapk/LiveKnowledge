@@ -36,7 +36,7 @@ distribution: crm-owl
 keyword: Cultural Heritage
 publisher: Unknown
 category:
-  - Upper-Level
+  - Culture
 versionNotes: '2016: Annual review OK'
 landingPage: 'https://cidoc-crm.org/'
 accessRigths: Public

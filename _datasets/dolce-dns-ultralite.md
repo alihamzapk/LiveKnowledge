@@ -32,7 +32,7 @@ distribution: dul-owl
 keyword: Unknown
 publisher: Unknown
 category:
-  - Upper-Level
+  - Others
 versionNotes: >-
   2017: dded a restriction to Quality and one to Region in order to ensure the
   original DOLCE constraint of qualities being always associated with a region,

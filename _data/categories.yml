@@ -1,14 +1,42 @@
-- name: Upper-Level
-  logo: /img/categories/real-estate-land-records.svg
+- name: Materials
+  logo: /img/categories/elections-politics.svg
   featured: true
-- name: Digital University
+- name: Academia
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
+  featured: true
+- name: Metadata
+  logo: /img/categories/uncategorized.svg
+  featured: true
+- name: Knowledge Organization
+  logo: /img/categories/education.svg
+  logo_credit: Sergey Patutin from the Noun Project
+  featured: true
+- name: People&Organization
+  logo: /img/categories/environment.svg
+  featured: true
+- name: Event&Time
+  logo: /img/categories/environment.svg
+  featured: true
+- name: Culture
+  logo: /img/categories/arts-culture-history.svg
+  featured: true
+- name: Geography
+  logo: /img/categories/environment.svg
   featured: true
 - name: Society&Territory
   logo: /img/categories/environment.svg
   featured: true
-- name: Health
+- name: General&Upper
+  logo: /img/categories/real-estate-land-records.svg
+  featured: true
+- name: Healthcare
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
+  featured: true
+- name: Internet of Things
+  logo: /img/categories/real-estate-land-records.svg
+  featured: true
+- name: Others
+  logo: /img/categories/real-estate-land-records.svg
   featured: true

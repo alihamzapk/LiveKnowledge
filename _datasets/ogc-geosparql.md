@@ -26,7 +26,7 @@ distribution: ' GeoSPARQL-owl'
 keyword: Geometry
 publisher: Open Geospatial Consortium
 category:
-  - Upper-Level
+  - Geography
 versionNotes: '2016: Annual review OK'
 landingPage: 'http://www.opengis.net/'
 accessRigths: Public

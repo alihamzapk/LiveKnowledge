@@ -26,7 +26,7 @@ distribution: gml-owl
 keyword: Geometry
 publisher: Unknown
 category:
-  - Upper-Level
+  - Geography
 versionNotes: '2016: Annual review - no changes'
 landingPage: 'http://www.opengis.net/'
 accessRigths: Public

@@ -30,7 +30,7 @@ distribution: vivo-owl
 keyword: Academy
 publisher: DataScientia Foundation
 category:
-  - Upper-Level
+  - Academia
 versionNotes: '2017:  Annual review - OK'
 landingPage: 'http://www.vivoweb.org/download'
 accessRigths: Public

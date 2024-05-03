@@ -32,7 +32,7 @@ distribution: sosa-owl
 keyword: 'IoT, Environment'
 publisher: W3C/OGC Spatial Data on the Web Working Group
 category:
-  - Upper-Level
+  - Internet of Things
 versionNotes: Unknown
 landingPage: 'http://www.w3.org/'
 accessRigths: Public

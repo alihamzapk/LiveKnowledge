@@ -34,7 +34,7 @@ distribution: gtfs-owl
 keyword: Travel
 publisher: ''
 category:
-  - Upper-Level
+  - Society&Territory
 versionNotes: '2016: Fixed version history'
 landingPage: >-
   https://raw.githubusercontent.com/OpenTransport/vocabulary/master/gtfs/gtfs.ttl

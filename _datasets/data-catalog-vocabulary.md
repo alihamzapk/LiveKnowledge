@@ -30,7 +30,7 @@ distribution: dcat.owl
 keyword: Catalogs
 publisher: W3C Data Exchange Working Group
 category:
-  - Upper-Level
+  - Metadata
 versionNotes: '(2020-11-01) Ghislain Atemezing: Review - OK'
 landingPage: 'http://www.w3.org/TR/vocab-dcat/'
 accessRigths: Public

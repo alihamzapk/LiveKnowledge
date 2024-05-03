@@ -31,7 +31,7 @@ distribution: skos-owl
 keyword: Concept schemes
 publisher: W3C
 category:
-  - Upper-Level
+  - Knowledge Organization
 versionNotes: >-
   2015: Annual review done! Added the editors of the W3C document at
   http://www.w3.org/2009/08/skos-reference/skos.html
