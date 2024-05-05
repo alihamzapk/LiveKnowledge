@@ -2,7 +2,7 @@
 schema: default
 title: The DBpedia Ontology
 notes: >-
-  The DBpedia ontology provides the classes and properties used in the DBpedia
+  <span style='color:Blue'>Schema</span> The DBpedia ontology provides the classes and properties used in the DBpedia
   data set.
 organization: DataScientia Foundation
 resources:
@@ -34,6 +34,7 @@ category:
   - Event and Time
   - Culture
   - Geography
+  - General&Upper
 versionNotes: >-
   new version 4.2-SNAPSHOT from this URL:
   http://vmdbpedia.informatik.uni-leipzig.de:8088/2016-04/ontology.owl
@@ -68,4 +69,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

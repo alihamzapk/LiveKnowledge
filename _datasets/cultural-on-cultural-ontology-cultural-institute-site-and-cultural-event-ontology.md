@@ -4,7 +4,7 @@ title: >-
   Cultural-ON (Cultural ONtology): Cultural Institute/Site and Cultural Event
   Ontology
 notes: >-
-  The ontology aims at modelling the data on cultural institutes or sites such
+  <span style='color:Blue'>Schema</span> The ontology aims at modelling the data on cultural institutes or sites such
   as data regarding the agents that play a specific role on cultural institutes
   or sites, the sites themselves, the contact points, all multimedia files which
   describe the cultural institute or site and any other information useful to
@@ -75,4 +75,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

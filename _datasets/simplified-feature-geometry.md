@@ -2,7 +2,7 @@
 schema: default
 title: Simplified Feature Geometry
 notes: >-
-  A specification of GeoSPARQL for simple features geometries (points, lines,
+  <span style='color:Blue'>Schema</span> A specification of GeoSPARQL for simple features geometries (points, lines,
   polygons ...) @en
 organization: DataScientia Foundation
 resources:
@@ -61,4 +61,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

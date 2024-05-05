@@ -2,7 +2,7 @@
 schema: default
 title: The data cube vocabulary
 notes: >-
-  This vocabulary allows multi-dimensional data, such as statistics, to be
+  <span style='color:Blue'>Schema</span> This vocabulary allows multi-dimensional data, such as statistics, to be
   published in RDF
 organization: DataScientia Foundation
 resources:
@@ -64,4 +64,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

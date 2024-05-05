@@ -50,6 +50,9 @@ dataset_fields:
   - field_name: byteSize
     label: DatSize
     datajson: distribution.bytesize
+  - field_name: type
+    label: Type
+    datajson: type
   
 resource_fields:
   - field_name: name
@@ -97,6 +100,13 @@ category_fields:
     label: Featured on Homepage
     form_template: form/checkbox.html
       
+type_fields:
+  - field_name: title
+    label: Title
+  - field_name: description
+    label: Description
+  - field_name: logo
+    label: Logo
 
 #DEFAULT SCHEMA:
 #dataset_fields:

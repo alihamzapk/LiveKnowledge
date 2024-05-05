@@ -2,7 +2,7 @@
 schema: default
 title: CIDOC Conceptual Reference Model
 notes: >-
-  This is the encoding approved by CRM-SIG in the meeting 21/11/2012 as the
+  <span style='color:Blue'>Schema</span> This is the encoding approved by CRM-SIG in the meeting 21/11/2012 as the
   official current version for the CIDOC CRM namespace. Note that this is NOT a
   definition of the CIDOC CRM, but an encoding derived from the authoritative
   release of the CIDOC CRM v5.0.4 on
@@ -67,4 +67,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

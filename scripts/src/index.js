@@ -10,6 +10,7 @@ import Navigation from './components/navigation'
 import DatasetsList from './components/datasets-list'
 import CategoriesFilter from './components/categories-filter'
 import OrganizationsFilter from './components/organizations-filter'
+import typeFilter from './components/type-filter'
 import Form from './components/form'
 import DatasetForm from './components/dataset-form'
 import AdminForm from './components/admin-form'
@@ -25,7 +26,7 @@ import {queryByComponent, setParams} from './util'
 const params = $.deparam(window.location.search.substr(1))
 
 // Initialize user
-const user = new UserModel({
+  const user = new UserModel({
   clientId: params.clientId || settings.GITHUB_CLIENT_ID,
   proxyHost: params.proxyHost || settings.GATEKEEPER_HOST,
   repoOwner: settings.REPO_OWNER,
@@ -60,7 +61,8 @@ const components = [
   {tag: 'theme-gallery', class: ThemeGallery},
   {tag: 'datasets-list', class: DatasetsList, usesDatasets: true},
   {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
-  {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true}
+  {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},
+  {tag: 'type-filter', class: typeFilter, usesDatasets: true}
 ]
 for (let component of components) {
   const els = queryByComponent(component.tag)

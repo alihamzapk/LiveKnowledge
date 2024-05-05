@@ -2,7 +2,7 @@
 schema: default
 title: Data Catalog Vocabulary
 notes: >-
-  CAT is an RDF vocabulary designed to facilitate interoperability between data
+  <span style='color:Blue'>Schema</span> CAT is an RDF vocabulary designed to facilitate interoperability between data
   catalogs published on the Web @en
 organization: DataScientia Foundation
 resources:
@@ -67,4 +67,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

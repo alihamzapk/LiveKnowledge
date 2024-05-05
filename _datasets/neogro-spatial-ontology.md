@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NeoGeo Spatial Ontology
-notes: A vocabulary for describing topological relations between features @en
+notes: <span style='color:Blue'>Schema</span> A vocabulary for describing topological relations between features @en
 organization: DataScientia Foundation
 resources:
   - name: GEOVOCAB.UAN.owl
@@ -58,4 +58,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

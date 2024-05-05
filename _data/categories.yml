@@ -1,28 +1,28 @@
 - name: Materials
-  logo: /img/categories/elections-politics.svg
+  logo: /img/categories/wall-icon.svg
   featured: true
 - name: Academia
-  logo: /img/categories/education.svg
+  logo: /img/categories/graduation-cap-icon.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
 - name: Metadata
-  logo: /img/categories/uncategorized.svg
+  logo: /img/categories/excel-file-icon.svg
   featured: true
 - name: Knowledge Organization
-  logo: /img/categories/education.svg
+  logo: /img/categories/mind-map-icon.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
 - name: People&Organization
-  logo: /img/categories/environment.svg
+  logo: /img/categories/business-relationship-icon.svg
   featured: true
 - name: Event&Time
-  logo: /img/categories/environment.svg
+  logo: /img/categories/daily-schedule-icon.svg
   featured: true
 - name: Culture
   logo: /img/categories/arts-culture-history.svg
   featured: true
 - name: Geography
-  logo: /img/categories/environment.svg
+  logo: /img/categories/globe-icon.svg
   featured: true
 - name: Society&Territory
   logo: /img/categories/environment.svg
@@ -35,8 +35,8 @@
   logo_credit: Timothy Miller from the Noun Project
   featured: true
 - name: Internet of Things
-  logo: /img/categories/real-estate-land-records.svg
+  logo: /img/categories/iot-icon.svg
   featured: true
 - name: Others
-  logo: /img/categories/real-estate-land-records.svg
+  logo: /img/categories/unknown-file-icon.svg
   featured: true

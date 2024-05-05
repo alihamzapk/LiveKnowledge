@@ -2,7 +2,7 @@
 schema: default
 title: 'The Event Ontology '
 notes: >-
-  This ontology deals with the notion of reified events - events seen as
+  <span style='color:Blue'>Schema</span> This ontology deals with the notion of reified events - events seen as
   first-class objects.
 organization: DataScientia Foundation
 resources:
@@ -63,4 +63,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

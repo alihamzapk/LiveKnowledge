@@ -2,7 +2,7 @@
 schema: default
 title: 'MOD: Metadata for Ontology Description and publication'
 notes: >-
-  This specification describes MOD, a metadata vocabulary to describe and
+  <span style='color:Blue'>Schema</span> This specification describes MOD, a metadata vocabulary to describe and
   publish ontologies
 organization: DataScientia Foundation
 resources:
@@ -63,4 +63,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

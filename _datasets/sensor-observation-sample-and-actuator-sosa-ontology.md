@@ -2,7 +2,7 @@
 schema: default
 title: 'Sensor, Observation, Sample, and Actuator (SOSA) Ontology'
 notes: >-
-  This ontology is based on the SSN Ontology by the W3C Semantic Sensor Networks
+  <span style='color:Blue'>Schema</span> This ontology is based on the SSN Ontology by the W3C Semantic Sensor Networks
   Incubator Group (SSN-XG), together with considerations from the W3C/OGC
   Spatial Data on the Web Working Group.
 organization: DataScientia Foundation
@@ -61,4 +61,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: OGC GeoSPARQL
-notes: A Geographic Query Language for RDF Data OGC 11-052r5 @en
+notes: <span style='color:Blue'>Schema</span> A Geographic Query Language for RDF Data OGC 11-052r5 @en
 organization: DataScientia Foundation
 resources:
   - name: GEOSPARQL.UAN.owl
@@ -58,4 +58,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

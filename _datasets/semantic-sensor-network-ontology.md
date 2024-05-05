@@ -2,7 +2,7 @@
 schema: default
 title: Semantic Sensor Network Ontology
 notes: >-
-  This ontology describes sensors, actuators and observations, and related
+  <span style='color:Blue'>Schema</span> This ontology describes sensors, actuators and observations, and related
   concepts. It does not describe domain concepts, time, locations, etc. these
   are intended to be included from other ontologies via OWL imports.
 organization: DataScientia Foundation
@@ -62,4 +62,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

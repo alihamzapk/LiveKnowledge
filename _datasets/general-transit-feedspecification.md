@@ -2,7 +2,7 @@
 schema: default
 title: General Transit FeedSpecification
 notes: >-
-  This ontology is a translation of the General Transit Feed Specification
+  <span style='color:Blue'>Schema</span> This ontology is a translation of the General Transit Feed Specification
   towards URIs. Its intended use is creating an exchange platform where the
   Linked GTFS model can be used as a start to get the right data into the right
   format. @en
@@ -65,4 +65,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

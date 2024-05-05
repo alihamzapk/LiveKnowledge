@@ -2,7 +2,7 @@
 schema: default
 title: The Geonames Ontology
 notes: >-
-  The Geonames ontology provides elements of description for geographical
+  <span style='color:Blue'>Schema</span> The Geonames ontology provides elements of description for geographical
   features defined in the geonames.org data base @en
 organization: DataScientia Foundation
 resources:
@@ -64,4 +64,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

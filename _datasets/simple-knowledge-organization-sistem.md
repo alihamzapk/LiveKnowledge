@@ -2,7 +2,7 @@
 schema: default
 title: Simple Knowledge Organization System
 notes: >-
-  The Simple Knowledge Organization System (SKOS) is a common data model for
+  <span style='color:Blue'>Schema</span> The Simple Knowledge Organization System (SKOS) is a common data model for
   sharing and linking knowledge organization systems via the Semantic Web. @en
 organization: DataScientia Foundation
 resources:
@@ -65,4 +65,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

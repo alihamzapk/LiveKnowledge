@@ -1,7 +1,7 @@
 ---
 schema: default
 title: OGC Geometry
-notes: A specialization of GeoSPARQL defining specific subtypes of Geometry @en
+notes: <span style='color:Blue'>Schema</span> A specialization of GeoSPARQL defining specific subtypes of Geometry @en
 organization: DataScientia Foundation
 resources:
   - name: GML.UAN.owl
@@ -58,4 +58,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

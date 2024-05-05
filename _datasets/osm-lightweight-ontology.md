@@ -1,7 +1,7 @@
 ---
 schema: default
 title: OSM Lightweight Ontology
-notes: A lightweight ontology developed based on data from Open Street Maps.
+notes: <span style='color:Blue'>Schema</span> A lightweight ontology developed based on data from Open Street Maps.
 organization: DataScientia Foundation
 resources:
   - name: OSM-LO.UAN.owl
@@ -58,4 +58,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

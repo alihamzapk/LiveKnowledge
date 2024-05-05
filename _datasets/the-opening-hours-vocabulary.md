@@ -2,7 +2,7 @@
 schema: default
 title: The Opening Hours Vocabulary
 notes: >-
-  A vocabulary to describe opening hours using calendars (recommended: iCal,
+  <span style='color:Blue'>Schema</span> A vocabulary to describe opening hours using calendars (recommended: iCal,
   RDFCal or schema.org) published on the Web. @en
 organization: DataScientia Foundation
 resources:
@@ -61,4 +61,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

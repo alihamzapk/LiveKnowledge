@@ -2,7 +2,7 @@
 schema: default
 title: Creative Commons Rights Expression Language
 notes: >-
-  The Creative Commons Rights Expression Language (CC REL) lets you describe
+  <span style='color:Blue'>Schema</span> The Creative Commons Rights Expression Language (CC REL) lets you describe
   copyright licenses in RDF
 organization: DataScientia Foundation
 resources:
@@ -61,4 +61,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

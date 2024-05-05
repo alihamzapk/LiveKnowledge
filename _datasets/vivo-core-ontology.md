@@ -2,7 +2,7 @@
 schema: default
 title: VIVO Core Ontology
 notes: >-
-  An ontology of academic and research domain, developed in the framework of the
+  <span style='color:Blue'>Schema</span> An ontology of academic and research domain, developed in the framework of the
   VIVO project
 organization: DataScientia Foundation
 resources:
@@ -58,4 +58,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

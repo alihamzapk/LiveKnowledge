@@ -1,7 +1,7 @@
 ---
 schema: default
 title: An Ontology for vCards
-notes: This ontology models and represents vCards in RDF using current best practices
+notes: <span style='color:Blue'>Schema</span> This ontology models and represents vCards in RDF using current best practices
 organization: DataScientia Foundation
 resources:
   - name: VCARD.UAN.owl
@@ -19,8 +19,8 @@ DatPublicationTimeStamp: Unknown
 publisher: W3C
 category:
   - People&Organization
-typology:
-  - Ontology
+type:
+  - Schema
 creator: 'Norman Walsh, Brian Suda, Renato Iannella, Harry Halpin'
 language: en
 versionInfo: version v2014-05-22

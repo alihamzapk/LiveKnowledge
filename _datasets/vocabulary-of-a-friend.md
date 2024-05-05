@@ -2,7 +2,7 @@
 schema: default
 title: Vocabulary of a Friend
 notes: >-
-  A vocabulary to describe linked data vocabularies and their relations @en, Un
+  <span style='color:Blue'>Schema</span> A vocabulary to describe linked data vocabularies and their relations @en, Un
   vocabulaire de description des vocabulaires RDF et de leurs relations
   mutuelles
 organization: DataScientia Foundation
@@ -65,4 +65,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

@@ -1,17 +1,17 @@
 ---
 schema: namespace
-title: Composite Materials Namespace
-notes: <span style='color:BlueViolet'>Namespace</span> This the fully annotated Composite Materials Namespace
+title: Dublin Core Namespace
+notes: <span style='color:BlueViolet'>Namespace</span> This the fully annotated Dublin Core Namespace
 organization: DataScientia Foundation
 resources:
-  - name: CM_Namespace.xls
+  - name: DC_Namespace.xls
     url: >-
-      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/CREP_NKC/ontologies/CM/CM-namespace/raw/master/Composite_Materials_Namespace.csv
+      http://git.knowdive.disi.unitn.it:8080/knowledge/LiveKnowledge/CREP_NKC/ontologies/DC/DC-namespace/raw/master/DC-%20Namespace.csv
     format: xls
     description: >-
-      This is the file representing the composite materials namespace
+      This is the file representing the Dublin Core (DC) namespace
 version: v0
-prefix: CM
+prefix: DC
 ns_license: Creative Commons
 publisher: DataScientia
 annotator: Mayukh Bagchi
@@ -21,12 +21,12 @@ generation_DateTime: 30/04/2024
 language: en
 type:
   - Namespace
-translators: None
-keywords: materials
+translators: none
+keywords: metadata
 validator: 'Mayukh Bagchi'
 reference_teleontology: to be added
 reference_UKC_Version: to be added
 project_Page: to be added
 category:
-  - Materials
+  - Metadata
 ---

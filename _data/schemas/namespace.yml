@@ -66,6 +66,9 @@ dataset_fields:
 - field_name: project_Page
   label: Project Page
   datajson: project_Page
+- field_name: type
+  label: Type
+  datajson: type
 
 resource_fields:
   - field_name: name
@@ -93,3 +96,11 @@ resource_fields:
   - field_name: description
     label: Description
     datajson: distribution.description
+
+type_fields:
+- field_name: title
+  label: Title
+- field_name: description
+  label: Description
+- field_name: logo
+  label: Logo

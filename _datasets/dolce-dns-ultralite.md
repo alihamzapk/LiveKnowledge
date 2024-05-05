@@ -2,7 +2,7 @@
 schema: default
 title: DOLCE+DnS Ultralite
 notes: >-
-  The DOLCE+DnS Ultralite ontology. It is a simplification of some parts of the
+  <span style='color:Blue'>Schema</span> The DOLCE+DnS Ultralite ontology. It is a simplification of some parts of the
   DOLCE Lite-Plus library (cf.
   http://www.ontologydesignpatterns.org/ont/dul/DLP397.owl)
 organization: DataScientia Foundation
@@ -78,4 +78,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

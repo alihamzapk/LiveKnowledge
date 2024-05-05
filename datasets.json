@@ -11,6 +11,7 @@
     "formalityLevel": {{ dataset.formalityLevel | jsonify }},
     "acronym": {{ dataset.acronym | jsonify }},
     "status": {{ dataset.resources[0].status | jsonify }},
+    "type": {{ dataset.type | jsonify }},
     "license": {{ dataset.resources[0].license | jsonify }},
     "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.notes != "" %},

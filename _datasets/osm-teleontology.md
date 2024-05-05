@@ -1,7 +1,7 @@
 ---
 schema: default
 title: OSM Teleontology
-notes: A teleontology developed based on data from Open Street Maps.
+notes: <span style='color:Blue'>Schema</span> A teleontology developed based on data from Open Street Maps.
 organization: DataScientia Foundation
 resources:
   - name: OSM-TONTO.UAN.owl
@@ -56,4 +56,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

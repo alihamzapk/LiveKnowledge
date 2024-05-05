@@ -2,7 +2,7 @@
 schema: default
 title: The Bibliographic Ontology
 notes: >-
-  The Bibliographic Ontology Specification provides main concepts and properties
+  <span style='color:Blue'>Schema</span> The Bibliographic Ontology Specification provides main concepts and properties
   for describing citations and bibliographic references (i.e. quotes, books,
   articles, etc) on the Semantic Web
 organization: DataScientia Foundation
@@ -64,4 +64,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

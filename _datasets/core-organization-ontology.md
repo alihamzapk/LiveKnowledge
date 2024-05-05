@@ -2,7 +2,7 @@
 schema: default
 title: Core organization ontology
 notes: >-
-  Vocabulary for describing organizational structures, specializable to a broad
+  <span style='color:Blue'>Schema</span> Vocabulary for describing organizational structures, specializable to a broad
   variety of types of organization
 organization: DataScientia Foundation
 resources:
@@ -66,4 +66,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---

@@ -2,7 +2,7 @@
 schema: default
 title: The GoodRelations Ontology for Semantic Web-based E-Commerce
 notes: >-
-  The GoodRelations ontology provides the vocabulary for annotating e-commerce
+  <span style='color:Blue'>Schema</span> The GoodRelations ontology provides the vocabulary for annotating e-commerce
   offerings (1) to sell, lease, repair, dispose, or maintain commodity products
   and (2) to provide commodity services
 organization: DataScientia Foundation
@@ -65,4 +65,6 @@ temporalExtent: Unknown
 datLicense: Creative Commons
 DatOwner: Unknown
 DatPublicationTimeStamp: Unknown
+type:
+  - Schema
 ---
