@@ -16,7 +16,7 @@ ns_license: Creative Commons
 publisher: DataScientia
 annotator: Mayukh Bagchi
 owner: DataScientia
-other_Namespaces_Reused: org, <a href="https://datascientiafoundation.github.io/LiveKnowledge/datasets/dublin-core-namesapce/">dc</a>,rdfs
+other_Namespaces_Reused: org, <a href="https://datascientiafoundation.github.io/LiveKnowledge/datasets/dublin-core-namespace/">dc</a>,rdfs
 generation_DateTime: 30/04/2024
 language: en
 type:
