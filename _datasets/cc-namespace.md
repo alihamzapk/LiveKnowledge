@@ -26,7 +26,7 @@ keywords: licence
 validator: 'Mayukh Bagchi'
 reference_teleontology: to be added
 reference_UKC_Version: to be added
-project_Page: to be added
+project_Page: <a href="https://ds.datascientia.eu/community/public/projects/25">Metadata project</a>
 category:
   - Undefined
 ---
