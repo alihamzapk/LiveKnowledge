@@ -26,7 +26,7 @@ keywords: travel
 validator: 'Mayukh Bagchi'
 reference_teleontology: to be added
 reference_UKC_Version: to be added
-project_Page: <a href="https://ds.datascientia.eu/community/public/projects/27">Society&Territory project</a>
+project_Page: <a href="https://ds.datascientia.eu/community/public/projects/bc4cbd6f-cee4-44c9-84c3-c74b57a4f0b5">Society&Territory project</a>
 category:
   - Society&Territory
 ---

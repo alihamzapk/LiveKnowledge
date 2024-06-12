@@ -26,7 +26,7 @@ keywords: materials
 validator: 'Mayukh Bagchi'
 reference_teleontology: to be added
 reference_UKC_Version: to be added
-project_Page: <a href="https://ds.datascientia.eu/community/public/projects/24">Materials project</a>
+project_Page: <a href="https://ds.datascientia.eu/community/public/projects/4ac58561-d8f2-4be3-a4dd-a95e49d4e27d">Materials project</a>
 category:
   - Materials
 ---

@@ -26,7 +26,7 @@ keywords: metadata
 validator: 'Mayukh Bagchi'
 reference_teleontology: to be added
 reference_UKC_Version: to be added
-project_Page: <a href="https://ds.datascientia.eu/community/public/projects/25">Metadata project</a>
+project_Page: <a href="https://ds.datascientia.eu/community/public/projects/ace5d34f-e814-4198-bd25-18f3123ef6a0">Metadata project</a>
 category:
   - Metadata
 ---

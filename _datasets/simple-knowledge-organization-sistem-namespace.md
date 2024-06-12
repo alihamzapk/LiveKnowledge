@@ -26,7 +26,7 @@ keywords: concept schemes
 validator: 'Mayukh Bagchi'
 reference_teleontology: to be added
 reference_UKC_Version: to be added
-project_Page: <a href="https://ds.datascientia.eu/community/public/projects/26">Knowledge Organization project<a>
+project_Page: <a href="https://ds.datascientia.eu/community/public/projects/93573757-f201-46c1-9892-c1fd70a190b4">Knowledge Organization project<a>
 category:
   - Knowledge Organization
 ---
